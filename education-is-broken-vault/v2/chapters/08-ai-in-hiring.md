@@ -150,3 +150,39 @@ If the preceding sections feel abstract, here is what they translate to in pract
 **Do not panic, but do not wait.** The talent crisis and the AI transformation of hiring are creating genuine disruption, but they are also creating opportunity. Fields with severe shortages, particularly in technology, data, and cybersecurity, offer strong prospects for anyone willing to build demonstrable skills. The 137,000 unfilled IT roles in Germany alone suggest that demand is far from hypothetical. The question is not whether opportunity exists but whether you are preparing in ways that hiring systems, both human and algorithmic, can recognize.
 
 The relationship between education and hiring has never been static. What is different now is the speed and scale of the feedback loop. AI hiring tools make employer preferences more legible, more immediate, and more consequential for educational choices. Understanding this loop, and positioning yourself within it, is one of the most practical things you can do for your career.
+
+---
+
+## Annotated Source List
+
+This chapter synthesizes data from Deloitte, TestGorilla, LinkedIn, and Eurostat surveys, as well as EU AI Act regulatory analysis. Sources are referenced narratively with evidence-quality labels throughout.
+
+The chapter's AI adoption statistics draw on Deloitte's annual global human capital trends surveys covering thousands of organizations across North America and Europe (Tier 2–3: multi-site employer surveys with self-reported data). Skills-based hiring prevalence and talent pool expansion figures come from TestGorilla's annual State of Skills-Based Hiring report, which surveys employers globally on hiring practices and candidate evaluation methods (Tier 2–3: large-scale multi-employer survey). LinkedIn's Global Talent Trends and Economic Graph data provide labour market analytics on skills demand, hiring velocity, and credential patterns derived from platform behavioural data across hundreds of millions of profiles (Tier 2: large-scale observational data from platform analytics). European talent shortage statistics, including Germany's 137,000 unfilled IT positions and EU-wide ICT specialist gaps, draw on Eurostat and Bitkom industry association surveys (Tier 2: national statistical office and industry association data). The EU AI Act discussion draws on the published regulatory text, European Commission guidance documents, and legal analyses of high-risk classification and enforcement timelines (Tier 2: primary regulatory sources). Amazon's abandoned hiring tool is documented through investigative journalism by Reuters (Tier 3: single-company case study). VR and gamification assessment data draws on vendor case studies from Walmart, UPS, and the U.S. Navy (Tier 3–4: single-organization implementations). The 83% gamification adoption figure comes from an industry survey with varying definitions across respondents (Tier 3). Agentic AI deployment projections are Deloitte estimates based on enterprise adoption modelling (Tier 4: vendor-reported forecasts). The 35% time-to-fill reduction is a vendor-reported average across early adopters without independent verification (Tier 4).
+
+---
+
+## References
+
+Deloitte. 2025. *2025 Global Human Capital Trends*. New York: Deloitte Insights. https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html.
+
+TestGorilla. 2024. *The State of Skills-Based Hiring 2024*. Amsterdam: TestGorilla. https://www.testgorilla.com/state-of-skills-based-hiring/.
+
+LinkedIn. 2024. *Global Talent Trends 2024*. Sunnyvale, CA: LinkedIn Economic Graph. https://economicgraph.linkedin.com/talent-trends/.
+
+Eurostat. 2024. "ICT Specialists in Employment." European Commission. https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_specialists_in_employment.
+
+Bitkom. 2023. "IT-Fachkräftelücke: 137.000 offene Stellen." Bitkom. https://www.bitkom.org/Presse/Presseinformation/IT-Fachkraefteluecke-137000.
+
+European Parliament and Council. 2024. *Regulation (EU) 2024/1689 Laying Down Harmonised Rules on Artificial Intelligence (AI Act)*. Brussels: Official Journal of the European Union. https://eur-lex.europa.eu/eli/reg/2024/1689/oj.
+
+European Commission. 2025. "AI Act Implementation Timeline and Guidance." Brussels: European Commission. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai.
+
+Dastin, Jeffrey. 2018. "Amazon Scraps Secret AI Recruiting Tool That Showed Bias Against Women." *Reuters*, October 10. https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G.
+
+Walmart. 2024. "VR Training and Workforce Development." Walmart Corporate. https://corporate.walmart.com/newsroom/innovation/.
+
+UPS. 2024. "VR Driver Training Safety Program." UPS Corporate Communications. https://about.ups.com/us/en/social-impact/people/safety.html.
+
+World Economic Forum. 2025. *The Future of Jobs Report 2025*. Geneva: World Economic Forum. https://www.weforum.org/publications/the-future-of-jobs-report-2025/.
+
+GDPR. 2018. *General Data Protection Regulation (EU) 2016/679*. Brussels: Official Journal of the European Union. https://gdpr-info.eu/.

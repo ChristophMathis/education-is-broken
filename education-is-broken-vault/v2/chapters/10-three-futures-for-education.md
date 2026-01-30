@@ -154,3 +154,11 @@ The reader now has a map. Not a complete one -- no map of a system this complex 
 The future of education is not something that happens to us. It is something we build, or fail to build, through the decisions we make in the next few years. The tools are powerful. The question is whether we use them to widen opportunity or to entrench advantage, to empower learners or to optimize them, to strengthen public institutions or to let them erode.
 
 That question will not be answered by technology. It will be answered by us.
+
+## Annotated Source List
+
+This chapter presents three future scenarios synthesized from the evidence and arguments of Chapters 1-9. No new primary sources are introduced.
+
+## References
+
+No new references are introduced in this chapter. All cited evidence appears in the reference lists of Chapters 1-9 and in references.bib.

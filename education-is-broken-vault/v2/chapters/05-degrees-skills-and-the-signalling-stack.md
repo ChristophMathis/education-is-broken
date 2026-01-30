@@ -209,3 +209,17 @@ This transition carries real risks. Credential inflation, employer confusion, an
 But the direction is set. Employers need better information about what candidates can do. Learners need more flexible, affordable, and current ways to demonstrate competence. AI is making both verification and assessment cheaper and faster. The question is not whether the signalling stack emerges, but whether we build it well -- legible, fair, and genuinely useful -- or let it fragment into chaos.
 
 The institutions, employers, and policymakers who understand this transition will shape it. Those who cling to the old monopoly of the degree or rush uncritically toward its replacement will find themselves on the wrong side of a structural shift that is already well underway.
+
+---
+
+## Annotated Source List
+
+This chapter synthesizes evidence from employer surveys, OECD data, and credential ecosystem research discussed across Chapters 1, 3, 4, and 6. No new primary sources with inline citations are introduced. See the master references.bib for the complete source inventory.
+
+The arguments draw on OECD comparative education statistics (Tier 2), large-scale employer surveys on skills-based hiring from TestGorilla and LinkedIn (Tier 2–3), World Economic Forum workforce reports (Tier 2), European Commission policy documents on micro-credentials and blockchain credential frameworks (Tier 3), industry analyses of credential inflation from Credential Engine and the Lumina Foundation (Tier 3), and vendor-reported data on AI assessment platforms and gamified hiring tools (Tier 4). Evidence on the degree premium relies on cross-national labour force surveys and econometric studies of returns to education. Discussion of blockchain credentials references pilot implementations by the European Consortium of Innovative Universities and the Europass digital wallet initiative. The signalling stack framework is the authors' synthesis and is not drawn from a single empirical source.
+
+---
+
+## References
+
+No new references with inline citations are introduced in this chapter. All sources informing the synthesis are cited in their originating chapters (Chapters 1, 3, 4, and 6) and listed in the master bibliography.

@@ -110,3 +110,11 @@ The AI era will transform universities. It should. Many of the reforms discussed
 The argument of this chapter is that societies need universities to do things that no other institution will do: sustain basic research, cultivate democratic citizenship, preserve and challenge cultural memory, anchor local communities, and protect the conditions for independent inquiry. These functions are not obstacles to innovation. They are the reasons innovation matters. A university that optimizes for efficiency at the expense of its public mission has not adapted to the future. It has surrendered its reason for existing.
 
 The AI-era university will be hybrid: partly online and partly residential, partly modular and partly integrated, partly employer-aligned and partly independent, partly automated and partly irreducibly human. The challenge is not to choose between tradition and innovation but to hold both in productive tension -- embracing new tools and models while defending the commitments that make universities worth saving.
+
+## Annotated Source List
+
+This chapter draws on themes and evidence from Chapters 1-8, particularly concerning university funding models (OECD 2025a; EHEA 2024), platform economics, and the public mission of higher education. No new primary sources with inline citations are introduced.
+
+## References
+
+No new references are introduced in this chapter. All cited evidence appears in the reference lists of Chapters 1-8 and in references.bib.

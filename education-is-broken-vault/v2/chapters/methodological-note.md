@@ -35,3 +35,11 @@ Where a claim is supported by Tier 1 or Tier 2 evidence, we generally present it
 These caveats are not meant to discredit the claims but to help readers distinguish between what is well-established and what is promising but unverified. In a field where bold claims travel faster than rigorous evidence, this distinction matters.
 
 The evidence base for educational innovation is improving, but it remains thinner than the confidence of the claims made about it. We have tried to be honest about that throughout.
+
+## Annotated Source List
+
+This note explains the evidence hierarchy applied throughout the book. It references the same sources catalogued in the chapter-level reference lists and in references.bib.
+
+## References
+
+No new references are introduced in this note. All cited sources appear in the chapter-level reference lists and in references.bib.

@@ -946,3 +946,14 @@ but by the deliberate choices
 institutions, governments, and learners make
 about which trade-offs they are willing to accept --
 and which ones they refuse to tolerate.
+
+
+---
+
+## Annotated Source List
+
+Sources discussed in this chapter are referenced narratively with evidence-quality labels. See individual model profiles for source details; full bibliographic entries appear in the references for Chapters 1 and 6.
+
+## References
+
+No new references. See Chapters 1 and 6 for full bibliographic entries of sources discussed narratively in this chapter.

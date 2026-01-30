@@ -166,3 +166,14 @@ Two conclusions follow. First, innovation alone is not enough. Without regulator
 Second, the pace and direction of change are choices, not inevitabilities. Governments can redesign funding formulas and accreditation standards. Universities can invest in faculty development and organizational agility. Employers can build credible frameworks for evaluating alternative credentials. Students can demand transparency and quality. None of these things will happen automatically. All of them require actors to accept short-term costs and political risks for long-term gains.
 
 The chapters that follow examine the most promising innovations in detail, their real evidence base, their pitfalls, and the design choices that determine whether they expand opportunity or deepen inequality. But every one of those innovations operates within the system described here. Understanding the system is the first step toward changing it.
+
+
+---
+
+## Annotated Source List
+
+This chapter draws on concepts and evidence introduced in Chapters 1--2 and does not introduce new primary sources.
+
+## References
+
+No new references. See Chapters 1 and 2 for sources underlying the frameworks discussed here.

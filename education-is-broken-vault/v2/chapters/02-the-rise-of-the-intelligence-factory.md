@@ -141,4 +141,15 @@ We argue that the most critical skill for navigating this transition -- for indi
 
 ---
 
-*Primary source: Jensen Huang, "The Future of AI and Education" (2024). Additional framing informed by the Prussian education system's historical legacy, competency-based education research, and institutional analysis of university unbundling dynamics.*
+*Primary source: Huang (2024). Additional framing informed by the Prussian education system's historical legacy, competency-based education research, and institutional analysis of university unbundling dynamics.*
+
+
+---
+
+## Annotated Source List
+
+1. **Huang 2024** — "The Future of AI and Education." Video recording of Jensen Huang, CEO of NVIDIA, discussing how artificial intelligence will reshape education, workforce preparation, and the value of traditional degrees. Presented as a public talk. Cited for its framing of the AI-education narrative rather than as empirical evidence. **Tier 4** (individual executive opinion without peer review or empirical data).
+
+## References
+
+Huang, Jensen. 2024. "The Future of AI and Education." Video. https://www.youtube.com/watch?v=sjGFJNY2v1k.

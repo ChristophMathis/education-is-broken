@@ -166,3 +166,45 @@ If you have read this far, here is what matters for your own life and career:
 **Take ownership of your development.** AI-powered platforms can surface opportunities, recommend learning paths, and track your progress. But no system -- corporate or academic -- will manage your career for you. Use the tools available, but set your own direction.
 
 **Do not expect companies to replace what education should have provided.** Corporate learning is powerful for building applied, job-specific skills. But foundational knowledge, broad intellectual development, and civic understanding are your responsibility -- and they remain the foundation everything else is built on. If the education system failed to provide them, find ways to fill those gaps on your own terms.
+
+---
+
+## Annotated Source List
+
+This chapter draws on World Economic Forum reports, IDC estimates, vendor case studies, and industry surveys cited narratively with evidence-quality labels. No new sources with inline URL citations are introduced.
+
+The chapter's workforce skills data relies primarily on the World Economic Forum's *Future of Jobs Report* series (Tier 2), which surveys hundreds of global employers on projected skill shifts, hiring practices, and workforce strategy. Estimates of economic losses from skills gaps draw on IDC forecasts (Tier 4: vendor-reported modeling based on proprietary survey data). Claims about AI-powered learning outcomes -- including faster skill acquisition, higher engagement, and improved completion rates -- are drawn from vendor case studies and platform-reported benchmarks by companies such as IBM, Salesforce, SAP, and Hilton (Tier 4: single-company implementations without independent replication). The 95% attrition prediction accuracy attributed to IBM and the retention improvements from Salesforce and SAP are self-reported corporate metrics. Immersive technology examples from Boeing, Walmart, and Fidelity are based on corporate press materials and conference presentations (Tier 3–4). The Learning in the Flow of Work productivity data derives from industry reports and vendor case studies with limited independent controlled studies (Tier 3–4). Statistics on skills-based hiring adoption come from multi-employer surveys by TestGorilla and LinkedIn (Tier 2–3). The Pennsylvania government hiring reform data is drawn from public reporting on state policy implementation (Tier 3). Internal mobility and talent marketplace metrics are vendor-reported aggregates from platforms like Gloat and Eightfold.ai (Tier 4). The EU AI Act discussion draws on published regulatory text and compliance guidance (Tier 2). Claims about the uniquely human skills premium and the continuous learning imperative synthesize World Economic Forum projections with employer survey data. All evidence-quality labels are assigned in the narrative text where sources are discussed.
+
+---
+
+## References
+
+This chapter references sources narratively with evidence-quality labels integrated into the text rather than through inline URL citations. The principal sources informing the chapter include:
+
+World Economic Forum. 2025. *The Future of Jobs Report 2025*. Geneva: World Economic Forum. https://www.weforum.org/publications/the-future-of-jobs-report-2025/.
+
+IDC. 2024. *Skills Forward: Building Workforce Readiness for the AI Era*. Framingham, MA: International Data Corporation. https://www.idc.com/research/skills-forward.
+
+TestGorilla. 2024. *The State of Skills-Based Hiring 2024*. Amsterdam: TestGorilla. https://www.testgorilla.com/state-of-skills-based-hiring/.
+
+LinkedIn. 2024. *Global Talent Trends 2024*. Sunnyvale, CA: LinkedIn Economic Graph. https://economicgraph.linkedin.com/talent-trends/.
+
+European Parliament and Council. 2024. *Regulation (EU) 2024/1689 Laying Down Harmonised Rules on Artificial Intelligence (AI Act)*. Brussels: Official Journal of the European Union. https://eur-lex.europa.eu/eli/reg/2024/1689/oj.
+
+IBM. 2024. "Predictive Analytics in Workforce Planning." IBM Corporate Communications. https://www.ibm.com/thought-leadership/workforce-analytics/.
+
+Salesforce. 2024. "AI-Driven Retention and Talent Development." Salesforce Case Studies. https://www.salesforce.com/resources/case-studies/.
+
+SAP. 2024. "Predictive Attrition Modeling." SAP SuccessFactors. https://www.sap.com/products/hcm/workforce-analytics.html.
+
+Boeing. 2024. "Augmented Reality in Aircraft Assembly." Boeing Corporate. https://www.boeing.com/innovation/augmented-reality.
+
+Walmart. 2024. "VR Training and Workforce Development." Walmart Corporate. https://corporate.walmart.com/newsroom/innovation/.
+
+Fidelity Investments. 2024. "Fidelity Immerse: VR Training for Financial Services." Fidelity Institutional. https://institutional.fidelity.com/app/item/RD_13569_46516/fidelity-immerse.html.
+
+Gloat. 2024. "Internal Talent Marketplace: Workforce Agility Platform." Gloat. https://www.gloat.com/.
+
+Eightfold.ai. 2024. "AI-Powered Talent Intelligence Platform." Eightfold.ai. https://eightfold.ai/.
+
+Hilton Hotels. 2024. "AI-Driven Employee Engagement and Retention." Hilton Corporate Communications. https://www.hilton.com/corporate/.
