@@ -8,11 +8,11 @@ This raises a question the education debate too often ignores: if corporate lear
 
 Corporate learning has stepped into gaps that universities and colleges have struggled to close. Three failures stand out.
 
-**The skills gap.** University curricula update on multi-year cycles. AI tools evolve monthly. The World Economic Forum projects that 39% of workers' core skills will change by 2030, yet traditional education has struggled to keep pace. Given this mismatch, companies increasingly feel they have no choice but to build the capabilities they need internally. The cost of not doing so is staggering: IDC estimates that sustained skills shortages risk $5.5 trillion in global economic losses.
+- **The skills gap.** University curricula update on multi-year cycles. AI tools evolve monthly. The World Economic Forum projects that 39% of workers' core skills will change by 2030, yet traditional education has struggled to keep pace. Given this mismatch, companies increasingly feel they have no choice but to build the capabilities they need internally. The cost of not doing so is staggering: IDC estimates that sustained skills shortages risk $5.5 trillion in global economic losses.
 
-**The speed gap.** A four-year degree was designed for a world where knowledge stayed relevant for decades. By some estimates, 80% of the engineering workforce alone needs upskilling through 2027 just to keep pace with generative AI. Companies need employees who can learn in weeks, not years, and they are building systems to make that possible.
+- **The speed gap.** A four-year degree was designed for a world where knowledge stayed relevant for decades. By some estimates, 80% of the engineering workforce alone needs upskilling through 2027 just to keep pace with generative AI. Companies need employees who can learn in weeks, not years, and they are building systems to make that possible.
 
-**The cost and access gap.** Sixty-five percent of employers now implement skills-based hiring for entry-level positions. Pennsylvania eliminated bachelor's degree requirements for 92% of government roles and saw 41% more hires in the first year. Seventy million Americans possess competencies employers need but lack traditional credentials. Corporate learning systems offer these workers a path that the traditional system blocked.
+- **The cost and access gap.** Sixty-five percent of employers now implement skills-based hiring for entry-level positions. Pennsylvania eliminated bachelor's degree requirements for 92% of government roles and saw 41% more hires in the first year. Seventy million Americans possess competencies employers need but lack traditional credentials. Corporate learning systems offer these workers a path that the traditional system blocked.
 
 But there is a boundary that matters. Companies train for their needs, not yours. Corporate learning excels at building specific, applied skills. It does not and cannot replace what higher education is supposed to provide at its best:
 
@@ -159,13 +159,13 @@ When implemented ethically, AI can actually improve equity by surfacing opportun
 
 If you have read this far, here is what matters for your own life and career:
 
-**Expect learning to be part of your job -- permanently.** The era of "learn once, work forever" is over. Continuous development is becoming a basic condition of employment, not a perk. The organizations worth working for will invest in your growth. Seek them out.
+- **Expect learning to be part of your job -- permanently.** The era of "learn once, work forever" is over. Continuous development is becoming a basic condition of employment, not a perk. The organizations worth working for will invest in your growth. Seek them out.
 
-**Build skills that complement AI, not compete with it.** Technical fluency with AI tools is becoming a baseline requirement across nearly every field. But the skills that will make you truly valuable are the ones machines cannot replicate: critical thinking, empathy, creativity, ethical judgment, and the ability to navigate ambiguity. Invest in both.
+- **Build skills that complement AI, not compete with it.** Technical fluency with AI tools is becoming a baseline requirement across nearly every field. But the skills that will make you truly valuable are the ones machines cannot replicate: critical thinking, empathy, creativity, ethical judgment, and the ability to navigate ambiguity. Invest in both.
 
-**Take ownership of your development.** AI-powered platforms can surface opportunities, recommend learning paths, and track your progress. But no system -- corporate or academic -- will manage your career for you. Use the tools available, but set your own direction.
+- **Take ownership of your development.** AI-powered platforms can surface opportunities, recommend learning paths, and track your progress. But no system -- corporate or academic -- will manage your career for you. Use the tools available, but set your own direction.
 
-**Do not expect companies to replace what education should have provided.** Corporate learning is powerful for building applied, job-specific skills. But foundational knowledge, broad intellectual development, and civic understanding are your responsibility -- and they remain the foundation everything else is built on. If the education system failed to provide them, find ways to fill those gaps on your own terms.
+- **Do not expect companies to replace what education should have provided.** Corporate learning is powerful for building applied, job-specific skills. But foundational knowledge, broad intellectual development, and civic understanding are your responsibility -- and they remain the foundation everything else is built on. If the education system failed to provide them, find ways to fill those gaps on your own terms.
 
 ---
 

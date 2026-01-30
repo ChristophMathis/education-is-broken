@@ -10,3 +10,6 @@ check the sources and references for each chapter.
   material, academic sources, tools and commercial offerings, divergent and opposing views
   write a separate bibtex file with all references
   create tasks
+# formatting
+check all chapters for formatting: there are enumerations without a leading "- " in the line. make sure they get
+  this formatting so that the chapters render correctly. create tasks per chapter.

@@ -94,7 +94,7 @@ This sounds empowering. In practice, it filters for privilege.
 
 The reason is straightforward: "self-directed learning" requires a foundation that is itself socially produced. You need to know how to learn before you can direct your own learning. You need confidence that your efforts will pay off. You need to have seen adults model persistence, curiosity, and self-discipline. These are not innate traits. They are the products of upbringing, schooling, and environment -- and they are distributed along familiar lines of class, race, and geography.
 
-**42 School** -- the tuition-free, teacher-free coding school that has expanded to 54 campuses globally -- is a case study in selection bias.
+- **42 School** -- the tuition-free, teacher-free coding school that has expanded to 54 campuses globally -- is a case study in selection bias.
 
 Its intensive month-long "piscine" selection process requires applicants to navigate close collaboration, peer feedback, and high-pressure problem-solving. Those who struggle with interpersonal dynamics or need more explicit instruction drop out. The model is designed for "resourceful, self-directed learners"; it is not a solution for populations requiring developmental support, remedial education, or socio-emotional services (BBC 2016).
 
@@ -106,7 +106,7 @@ Put bluntly: 42 School is an excellent institution for people who do not need an
 
 None of this diminishes 42's achievements for the students it does serve. The point is that celebrating a model as revolutionary while ignoring who it structurally excludes is a form of intellectual dishonesty. If 42 wants to be a niche institution for self-starters, that is legitimate. But it should not be held up as a model for the future of education at large.
 
-**Minerva University** offers a different version of the same problem.
+- **Minerva University** offers a different version of the same problem.
 
 Its global-rotation, fully active-learning model sets tuition at $10,000 annually -- less than one-third of Harvard's. That sounds revolutionary. But total costs (tuition, room, board, living expenses across seven global cities) reach approximately $29,000 per year, placing Minerva out of reach for many qualified students, particularly those from the Global South (Selingo 2014).
 
@@ -116,7 +116,7 @@ Admissions are need-blind, but the model does not address systemic barriers -- u
 
 The question is whether Minerva's $29,000 annual cost genuinely expands access or simply creates a new tier of selectivity at a slightly lower price point. A cheaper version of elite education is still elite education. And marketing it as accessible, when the real barriers are upstream in secondary schooling and family resources, risks obscuring the structural changes that would actually make a difference.
 
-**Competency-based education (CBE)** programs like Western Governors University complete the pattern.
+- **Competency-based education (CBE)** programs like Western Governors University complete the pattern.
 
 CBE's self-paced, individually focused model privileges learners who are already self-directed, digitally literate, and capable of sustained motivation without social scaffolding. It ignores the importance of social learning, peer interaction, and the developmental role of structured deadlines and cohort progression that benefit many students, particularly those from under-resourced backgrounds (Bates 2014).
 
@@ -148,15 +148,15 @@ Over 80% of degree and certificate learners in Guild's system enroll in business
 
 This arrangement creates three interrelated problems that are easy to miss when the headlines focus on "free college for workers."
 
-**Curriculum narrowing.** This is the most fundamental concern, and it goes beyond individual workers. When corporations fund education, corporations shape education. Programs tilt toward instrumental, skills-focused training at the expense of liberal arts, critical inquiry, and the broader intellectual development that helps people adapt to careers that do not yet exist. Universities dependent on Guild partnerships may face pressure to design programs that prioritize employer satisfaction over intellectual rigor or student-centred pedagogy, risking mission drift that transforms universities from sites of broad human development into corporate training arms (Müller 2017).
+- **Curriculum narrowing.** This is the most fundamental concern, and it goes beyond individual workers. When corporations fund education, corporations shape education. Programs tilt toward instrumental, skills-focused training at the expense of liberal arts, critical inquiry, and the broader intellectual development that helps people adapt to careers that do not yet exist. Universities dependent on Guild partnerships may face pressure to design programs that prioritize employer satisfaction over intellectual rigor or student-centred pedagogy, risking mission drift that transforms universities from sites of broad human development into corporate training arms (Müller 2017).
 
-**Worker lock-in.** Guild participants are 2.6 times more likely to remain with their company compared to non-participants, and internal job mobility increases by 3.5 times. Chipotle reports that Guild enrollees are nearly twice as likely to be promoted and have 89% retention rates after nine months (PR Newswire 2017).
+- **Worker lock-in.** Guild participants are 2.6 times more likely to remain with their company compared to non-participants, and internal job mobility increases by 3.5 times. Chipotle reports that Guild enrollees are nearly twice as likely to be promoted and have 89% retention rates after nine months (PR Newswire 2017).
 
 From the employer's perspective, this is excellent return on investment. From the worker's perspective, it may reduce bargaining power by tying educational benefits to continued employment.
 
 Workers who leave before completing programs may forfeit progress or face financial penalties, creating a form of economic lock-in (Rogers 2024). The education benefit becomes a golden handcuff -- valuable precisely because leaving is costly.
 
-**Restricted agency.** Unlike traditional financial aid, Guild's business-to-business model places employers, not learners, at the centre. Employees choose from what their employer makes available, not from the full landscape of higher education. A warehouse worker passionate about philosophy or marine biology will find those options absent from the menu. The learning path is shaped by corporate strategy, not personal aspiration (Contrary Research 2024).
+- **Restricted agency.** Unlike traditional financial aid, Guild's business-to-business model places employers, not learners, at the centre. Employees choose from what their employer makes available, not from the full landscape of higher education. A warehouse worker passionate about philosophy or marine biology will find those options absent from the menu. The learning path is shaped by corporate strategy, not personal aspiration (Contrary Research 2024).
 
 There is a deeper question here about what education is for.
 
@@ -210,11 +210,11 @@ These are not luxuries. They are prerequisites. And they are distributed as uneq
 
 Every model discussed in earlier chapters -- AI tutoring, peer-driven coding schools, campus-free universities, employer-sponsored programs, transnational alliances -- assumes these basics are in place. When they are not, the model does not just underperform. It actively excludes.
 
-**The connectivity gap.** Europe's ageing populations and regional disparities mean some systems struggle with declining local cohorts while others manage massification and capacity constraints, often within tight public spending envelopes. Persistent inequalities by socio-economic status, migrant background, and region continue to challenge the promise of fair access in both public and private institutions (OECD 2025c; OECD 2025b).
+- **The connectivity gap.** Europe's ageing populations and regional disparities mean some systems struggle with declining local cohorts while others manage massification and capacity constraints, often within tight public spending envelopes. Persistent inequalities by socio-economic status, migrant background, and region continue to challenge the promise of fair access in both public and private institutions (OECD 2025c; OECD 2025b).
 
-**The institutional gap.** Institutions struggle to modernize legacy systems, integrate learning platforms, and deliver flexible, hybrid or online learning at scale without fragmenting the student experience (Full Fabric 2024). Rapid adoption of AI and analytics brings opportunities for personalization and efficiency but raises ethical concerns about data privacy, algorithmic bias, and potential displacement of some academic or administrative roles (Congruence Market Insights 2024).
+- **The institutional gap.** Institutions struggle to modernize legacy systems, integrate learning platforms, and deliver flexible, hybrid or online learning at scale without fragmenting the student experience (Full Fabric 2024). Rapid adoption of AI and analytics brings opportunities for personalization and efficiency but raises ethical concerns about data privacy, algorithmic bias, and potential displacement of some academic or administrative roles (Congruence Market Insights 2024).
 
-**The wellbeing gap.** The mental health dimension compounds every other inequality.
+- **The wellbeing gap.** The mental health dimension compounds every other inequality.
 
 Retention is challenged by students' financial stress, mental health issues, and disengagement, which increases dropout risk (SeatsOne 2025).
 
@@ -222,9 +222,9 @@ The research on who drops out is remarkably consistent across countries and syst
 
 What this means is that dropout is not random. It follows the same fault lines as every other form of inequality. And every model that makes learning more flexible, more self-paced, and more independent -- without also investing in the support structures that keep vulnerable students enrolled -- will see those fault lines widen.
 
-**The isolation trap.** Teens and young adults are forming emotional attachments to AI chatbots, often substituting them for real relationships; mental health professionals report rising social anxiety and loneliness as drivers. When universities replace human mentors with AI agents or chatbot tutors, they risk compounding isolation and undermining the relational infrastructure that young people need for cognitive and emotional development (AICerts 2025).
+- **The isolation trap.** Teens and young adults are forming emotional attachments to AI chatbots, often substituting them for real relationships; mental health professionals report rising social anxiety and loneliness as drivers. When universities replace human mentors with AI agents or chatbot tutors, they risk compounding isolation and undermining the relational infrastructure that young people need for cognitive and emotional development (AICerts 2025).
 
-**The algorithmic bias trap.** AI systems trained on historical data replicate and amplify existing inequalities. This is not a theoretical risk -- it is a documented reality.
+- **The algorithmic bias trap.** AI systems trained on historical data replicate and amplify existing inequalities. This is not a theoretical risk -- it is a documented reality.
 
 Predictive models incorrectly flag Black and Latinx students as "at risk" when they actually succeed (false-negative rates of 19% and 21%, respectively). Admissions algorithms favour applicants from privileged high schools. Facial recognition systems trained on datasets skewed toward white males fail to accurately identify darker-skinned individuals.
 

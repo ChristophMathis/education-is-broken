@@ -88,33 +88,33 @@ For each of the most-discussed innovations, it is worth asking three simple ques
 
 ### Competency-Based Education (CBE)
 
-**Current scale:** CBE remains concentrated in a small number of large institutions, primarily in the United States. WGU (200,000+ students) and SNHU are the dominant players. Most traditional universities have not adopted CBE at scale, and many CBE pilots at smaller institutions have quietly ended.
+- **Current scale:** CBE remains concentrated in a small number of large institutions, primarily in the United States. WGU (200,000+ students) and SNHU are the dominant players. Most traditional universities have not adopted CBE at scale, and many CBE pilots at smaller institutions have quietly ended.
 
-**Where concentrated:** Overwhelmingly in the US, serving adult and non-traditional learners. European adoption is minimal, partly because Bologna structures already define learning outcomes but retain credit-hour and seat-time norms in practice.
+- **Where concentrated:** Overwhelmingly in the US, serving adult and non-traditional learners. European adoption is minimal, partly because Bologna structures already define learning outcomes but retain credit-hour and seat-time norms in practice.
 
-**Main blockers:**
+- **Main blockers:**
 - Accreditation frameworks built around seat-time and faculty structures that CBE disrupts.
 - The measurement trap: defining and assessing competencies at scale is harder than it sounds. A meta-review found that despite CBE approaches emerging in the 1970s, there is very limited evidence for their effectiveness.
 - CBE privileges self-directed, digitally literate learners and struggles to serve students who need social scaffolding and structured progression.
 
 ### Micro-Credentials
 
-**Current scale:** Growing rapidly in volume but unevenly in quality and recognition. Over one million unique credentials exist in the US alone. In Europe, the ECIU alliance and several national systems have begun formal integration, but most micro-credentials remain outside national qualifications frameworks.
+- **Current scale:** Growing rapidly in volume but unevenly in quality and recognition. Over one million unique credentials exist in the US alone. In Europe, the ECIU alliance and several national systems have begun formal integration, but most micro-credentials remain outside national qualifications frameworks.
 
-**Where concentrated:** Tech-adjacent fields, professional development, and corporate upskilling. University-issued micro-credentials are a small fraction of the total market. Employer recognition remains inconsistent.
+- **Where concentrated:** Tech-adjacent fields, professional development, and corporate upskilling. University-issued micro-credentials are a small fraction of the total market. Employer recognition remains inconsistent.
 
-**Main blockers:**
+- **Main blockers:**
 - Employer confusion: nearly half cannot assess the quality of non-degree credentials.
 - Fragmentation: stackability promises often fail in execution because institutions lack credit equivalency frameworks and transparent metadata for true portability.
 - Financial aid exclusion: government student aid rarely covers micro-credentials, limiting access for lower-income learners.
 
 ### AI-First Educational Models
 
-**Current scale:** No comprehensive AI-first university operates at scale in higher education as of early 2026. The Alpha School example frequently cited in discussions is a K-12 prototype with a small cohort and no longitudinal outcomes data. Individual AI tools (adaptive platforms, predictive analytics, AI tutors) are deployed across many institutions, but none has built an entire institutional model around AI from the ground up.
+- **Current scale:** No comprehensive AI-first university operates at scale in higher education as of early 2026. The Alpha School example frequently cited in discussions is a K-12 prototype with a small cohort and no longitudinal outcomes data. Individual AI tools (adaptive platforms, predictive analytics, AI tutors) are deployed across many institutions, but none has built an entire institutional model around AI from the ground up.
 
-**Where concentrated:** Pilot programs at large, well-resourced institutions like Arizona State University and SNHU. Conceptual proposals in academic literature and policy documents.
+- **Where concentrated:** Pilot programs at large, well-resourced institutions like Arizona State University and SNHU. Conceptual proposals in academic literature and policy documents.
 
-**Main blockers:**
+- **Main blockers:**
 - No proven model at scale with demonstrated learning outcomes.
 - Faculty unpreparedness: professors often lack training in AI tools, and implementation requires substantial investment in platforms, cybersecurity, and continuous monitoring.
 - Regulatory uncertainty: the EU AI Act, which entered into force in stages starting in 2024, classifies AI systems used in education as "high-risk," requiring conformity assessments, transparency obligations, and human oversight. Compliance costs and legal uncertainty slow institutional adoption.
@@ -122,11 +122,11 @@ For each of the most-discussed innovations, it is worth asking three simple ques
 
 ### European Universities Alliances
 
-**Current scale:** Over 60 alliances now exist under the European Universities Initiative, launched in 2017. These involve hundreds of institutions across Europe and represent significant public investment through Erasmus+ and Horizon Europe funding.
+- **Current scale:** Over 60 alliances now exist under the European Universities Initiative, launched in 2017. These involve hundreds of institutions across Europe and represent significant public investment through Erasmus+ and Horizon Europe funding.
 
-**Where concentrated:** Predominantly Western European, research-intensive universities. Over 75% of EUI member institutions rank among the top 500 globally. Institutions in Central and Eastern Europe, smaller universities, and applied-sciences institutions are disproportionately underrepresented.
+- **Where concentrated:** Predominantly Western European, research-intensive universities. Over 75% of EUI member institutions rank among the top 500 globally. Institutions in Central and Eastern Europe, smaller universities, and applied-sciences institutions are disproportionately underrepresented.
 
-**Main blockers:**
+- **Main blockers:**
 - The Matthew effect: alliances built on pre-existing partnerships and elite status consolidate advantages for already-privileged institutions, deepening vertical stratification rather than spreading innovation broadly.
 - Resource asymmetries: smaller institutions face higher relative costs to participate (staff time, travel, co-funding) while receiving proportionally smaller benefits.
 - Regulatory heterogeneity: cross-border recognition of joint degrees and micro-credentials requires aligning diverse national frameworks, quality assurance regimes, and legal structures, a process that moves at the speed of the slowest participant.
@@ -137,9 +137,9 @@ For each of the most-discussed innovations, it is worth asking three simple ques
 
 Rather than predicting a single future, it is more honest and more useful to map the space of plausible outcomes. Two axes capture the forces that matter most:
 
-**Regulatory openness:** How willing are governments and accreditation bodies to adapt rules for new models? At one extreme, regulators actively create space for competency-based credentials, AI-integrated pedagogy, and cross-border recognition. At the other, existing rules remain unchanged, and innovators must fit new models into old frameworks or operate outside the recognized system.
+- **Regulatory openness:** How willing are governments and accreditation bodies to adapt rules for new models? At one extreme, regulators actively create space for competency-based credentials, AI-integrated pedagogy, and cross-border recognition. At the other, existing rules remain unchanged, and innovators must fit new models into old frameworks or operate outside the recognized system.
 
-**Institutional capacity:** How able are universities to invest in transformation? This includes financial resources, technical infrastructure, faculty development, and organizational agility. At one extreme, institutions have the funding, talent, and governance flexibility to redesign programs. At the other, they are constrained by budget cuts, legacy systems, and internal resistance.
+- **Institutional capacity:** How able are universities to invest in transformation? This includes financial resources, technical infrastructure, faculty development, and organizational agility. At one extreme, institutions have the funding, talent, and governance flexibility to redesign programs. At the other, they are constrained by budget cuts, legacy systems, and internal resistance.
 
 These two axes produce four quadrants:
 

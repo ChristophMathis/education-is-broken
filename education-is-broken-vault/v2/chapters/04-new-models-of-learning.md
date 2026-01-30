@@ -29,7 +29,7 @@ and which are more marketing than substance.
 
 ## 1. Competency-Based Online Universities
 
-**Western Governors University (WGU) and Southern New Hampshire University (SNHU)**
+- **Western Governors University (WGU) and Southern New Hampshire University (SNHU)**
 
 ### What it is
 
@@ -125,7 +125,7 @@ and the honest reader should pay close attention to the quality labels.
   This suggests growing employer receptivity to CBE outputs,
   though receptivity is not the same as demonstrated effectiveness.
 
-**The CBE evidence paradox.**
+- **The CBE evidence paradox.**
 There is a genuine tension in the evidence base that deserves explicit acknowledgment.
 On one hand, the most rigorous independent meta-reviews conclude
 that four decades of CBE implementation have produced
@@ -145,7 +145,7 @@ to time-based models remains unsubstantiated by independent research.
 
 ### What can go wrong
 
-**The measurement trap.**
+- **The measurement trap.**
 Defining and assessing competencies at scale
 proves far more complex than replacing credit hours with learning outcomes.
 When competencies are tied narrowly to current employer needs --
@@ -168,7 +168,7 @@ rather than an integrated educational experience,
 sacrificing the interdisciplinary synthesis and critical reasoning
 that traditional curricula -- at their best -- cultivate.
 
-**The accreditation battle.**
+- **The accreditation battle.**
 WGU's 2017 federal audit exposed how CBE models
 collide with legacy regulatory frameworks.
 The Office of the Inspector General argued
@@ -192,7 +192,7 @@ of curriculum and academic quality.
 For smaller or newer CBE programs,
 these battles absorb resources and create existential uncertainty.
 
-**Not for all learners.**
+- **Not for all learners.**
 CBE's self-paced, individually focused model
 privileges learners who are already self-directed,
 digitally literate, and capable of sustained motivation
@@ -210,7 +210,7 @@ further eroding public trust in the model as a whole.
 
 ## 2. Global Campus-Free Models
 
-**Minerva University**
+- **Minerva University**
 
 ### What it is
 
@@ -281,7 +281,7 @@ and field research in each city.
 
 ### What can go wrong
 
-**The cost barrier is real despite the marketing.**
+- **The cost barrier is real despite the marketing.**
 While tuition is $10,000 annually,
 total costs -- tuition, room, board,
 and living expenses across seven global cities --
@@ -293,7 +293,7 @@ but delivers a price point that,
 while lower than Harvard,
 still exceeds what most families worldwide can manage.
 
-**Elite selectivity is maintained, not eliminated.**
+- **Elite selectivity is maintained, not eliminated.**
 Minerva targets the "best students"
 and positions itself as a meritocratic alternative
 to artificially scarce elite institutions.
@@ -311,7 +311,7 @@ Critics question whether Minerva genuinely expands access
 or simply creates a new tier of selectivity
 at a slightly lower price point.
 
-**Institutional sustainability questions.**
+- **Institutional sustainability questions.**
 The absence of tenure and research programs,
 while enabling cost savings,
 raises questions about long-term intellectual depth,
@@ -320,7 +320,7 @@ without the revenue diversification --
 endowments, research grants, alumni giving tied to campus identity --
 that traditional universities rely on.
 
-**Evidence is largely internal.**
+- **Evidence is largely internal.**
 The learning-gains data comes from Minerva's own studies.
 Independent, peer-reviewed validation of the model's
 long-term outcomes -- career trajectories, civic engagement,
@@ -331,7 +331,7 @@ does not yet exist at scale.
 
 ## 3. Peer-Driven, Teacher-Free Models
 
-**42 School (Ecole 42)**
+- **42 School (Ecole 42)**
 
 ### What it is
 
@@ -406,7 +406,7 @@ and governments seeking to address digital-talent shortages.
 
 ### What can go wrong
 
-**Selection bias is the model, not a bug.**
+- **Selection bias is the model, not a bug.**
 42's intensive month-long "piscine" (French for "swimming pool")
 selection process requires applicants to navigate
 close collaboration, peer feedback,
@@ -419,7 +419,7 @@ it does not develop these traits in learners who lack them.
 This means 42's impressive outcomes are partly a function
 of who gets in, not just what happens inside.
 
-**No mentorship means no safety net.**
+- **No mentorship means no safety net.**
 With no teachers and no structured guidance,
 learning quality depends entirely on the knowledge
 and generosity of peers.
@@ -434,7 +434,7 @@ and professional networks are thin:
 the very populations that most need guidance
 receive the least.
 
-**Who thrives versus who struggles.**
+- **Who thrives versus who struggles.**
 The model works for learners who already possess
 high intrinsic motivation, digital fluency,
 and collaborative capacity.
@@ -446,7 +446,7 @@ but it does not scale inclusively to serve broader populations.
 The model is a powerful solution for a specific demographic;
 it is not a replacement for the diverse functions of a university.
 
-**No degree, limited portability.**
+- **No degree, limited portability.**
 Graduation awards a certificate,
 not a degree recognized within national qualifications frameworks.
 In labor markets and countries where degree requirements remain standard
@@ -458,7 +458,7 @@ regardless of their actual competence.
 
 ## 4. Employer-Sponsored Learning Ecosystems
 
-**Guild Education**
+- **Guild Education**
 
 ### What it is
 
@@ -528,7 +528,7 @@ employers are the clients, not individual learners.
 
 ### What can go wrong
 
-**Corporate capture of curriculum.**
+- **Corporate capture of curriculum.**
 Guild curates which programs employers fund,
 and employers decide which offerings to support
 and which employees to enroll.
@@ -550,7 +550,7 @@ a dynamic that risks transforming universities
 from sites of broad human development
 into corporate training arms.
 
-**Worker lock-in.**
+- **Worker lock-in.**
 Guild's business model succeeds partly because it increases retention:
 participants are 2.6 times more likely
 to remain with their employer.
@@ -569,7 +569,7 @@ by tying educational benefits to continued employment
 and limiting the portability of skills and credentials
 outside the employer's network.
 
-**Who decides what you learn?**
+- **Who decides what you learn?**
 Unlike traditional financial aid or tuition reimbursement,
 Guild's B2B model places employers -- not learners --
 at the center of decision-making.
@@ -587,7 +587,7 @@ is a second chance or a gilded cage.
 
 ## 5. European University Alliances
 
-**ECIU, CHARM-EU, and the European Universities Initiative**
+- **ECIU, CHARM-EU, and the European Universities Initiative**
 
 ### What it is
 
@@ -689,7 +689,7 @@ everywhere in the EU.
 
 ### What can go wrong
 
-**The Matthew effect: the rich get richer.**
+- **The Matthew effect: the rich get richer.**
 Over 75% of EUI member institutions
 rank among the top 500 globally,
 and most alliances build on pre-existing partnerships.
@@ -707,7 +707,7 @@ Scholars describe this as the Initiative's "Matthew effect":
 the system designed to foster cooperation
 instead reproduces existing hierarchies.
 
-**West-east stratification deepens.**
+- **West-east stratification deepens.**
 Geographic coverage, resource asymmetries,
 and opportunity costs create structural barriers.
 Smaller institutions in countries
@@ -727,7 +727,7 @@ leverage alliances to enhance their own competitiveness,
 further stratifying the sector
 between participating and non-participating universities.
 
-**ECTS challenges and credential fragmentation.**
+- **ECTS challenges and credential fragmentation.**
 The promise of "stackability" --
 earning micro-credentials that accumulate toward degrees --
 often fails in execution.
@@ -747,7 +747,7 @@ while others treat them as unregulated continuing-education offerings.
 The result is a patchwork
 where recognition depends more on geography than on learning.
 
-**Employer confusion about micro-credentials.**
+- **Employer confusion about micro-credentials.**
 When job applicants present non-degree credentials,
 close to half of employers (46%) cannot assess program quality,
 and 42% cannot judge the skills and competencies acquired.
