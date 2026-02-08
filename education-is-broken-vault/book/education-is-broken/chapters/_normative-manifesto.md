@@ -32,11 +32,11 @@ Education must prepare people not only to _get jobs_, but to **navigate lives**:
 Reducing education to employability metrics hollowes out the public justification for universities and invites corporate capture of learning pathways.
 ## **4. Institutions matter because power matters**
 
-Markets optimize for short-term efficiency; institutions exist to protect long-term values.
+Markets optimise for efficiency, not for fairness. Left unchecked, they concentrate advantage, externalise social costs, and erode the public goods -- equal opportunity, social cohesion, democratic participation -- that no individual market actor is incentivised to protect. This is not a flaw in markets; it is what markets do. 
 
->*Market forces do not care about equal opportunities nor social cohesion. Institutions are a necessary corrective force to bring in public wellbeing, fairness and democratic principles.*
+The corrective has always been institutional: governments, regulators, and public bodies that set boundaries, redistribute access, and hold the line on values that markets cannot price. When those institutions retreat or fail to keep pace, market logic fills the vacuum -- and the common interest loses its seat at the table.
 
-Universities are not merely service providers. They are public trust institutions responsible for truth-seeking, academic freedom, and the preservation of cultural and scientific memory. These functions require governance, slowness, and resistance to short-term optimization.
+In this sense, Universities are not merely service providers. They are public trust institutions responsible for truth-seeking, academic freedom, and the preservation of cultural and scientific memory. These functions require governance, slowness, and resistance to short-term optimization.
 
 AI systems should inform institutional judgment—not replace it. Decisions about what counts as knowledge, competence, and merit must remain human, accountable, and contestable.
 
