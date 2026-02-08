@@ -1,0 +1,69 @@
+Below is a **one-page normative manifesto** designed to _anchor_ the entire argument of _Education is Broken_.
+
+It is intentionally declarative, value-forward, and trade-off explicit. You can place it near the beginning (after “What Is Broken”) or just before the futures chapter as a moral compass.
+
+# **A Normative Manifesto for Education in the Age of AI**
+
+Education is not broken because it has failed to keep up with technology.
+
+It is broken because it has lost clarity about what it is _for_.
+
+This book starts from a simple claim: **education exists to develop human judgment under conditions of uncertainty**. Everything else—credentials, skills, employability, innovation, even growth—are secondary outcomes, not first principles.
+
+In an age where intelligence can be manufactured at scale, the purpose of education cannot be the efficient transmission of information. That problem has been solved. The purpose must instead be to cultivate the capacities that cannot be automated: **judgment, responsibility, agency, and the ability to act wisely in complex, contested, and changing worlds**.
+
+From this follow five non-negotiable commitments.
+## **1. Judgment over recall**
+
+When answers are abundant, the scarce resource is discernment.
+
+Education must shift its center of gravity from memorization to judgment: the ability to frame good questions, evaluate competing claims, integrate evidence, and decide under uncertainty. Systems that optimize for test performance, content coverage, or credential throughput at the expense of judgment are failing their core mission—even if they appear efficient.
+
+AI should be used to _support_ judgment, not replace it.
+## **2. Agency before access**
+
+Access without agency is not empowerment—it is exposure.
+
+Expanding access to learning tools is necessary but insufficient. Education systems must actively **build the capacity to learn**, not merely provide resources. This includes self-regulation, metacognition, ethical reasoning, and the courage to take responsibility for one’s learning trajectory.
+
+Any system that scales content faster than it builds agency will increase inequality, not reduce it.
+## **3. Education is not just job training**
+
+Labour-market relevance matters—but it is not enough.
+
+Education must prepare people not only to _get jobs_, but to **navigate lives**: to adapt when roles change, to resist manipulation, to participate in democratic societies, and to exercise moral judgment when incentives point the wrong way.
+
+Reducing education to employability metrics hollowes out the public justification for universities and invites corporate capture of learning pathways.
+## **4. Institutions matter because power matters**
+
+Markets optimize for short-term efficiency; institutions exist to protect long-term values.
+
+Universities are not merely service providers. They are public trust institutions responsible for truth-seeking, academic freedom, and the preservation of cultural and scientific memory. These functions require governance, slowness, and resistance to short-term optimization.
+
+AI systems should inform institutional judgment—not replace it. Decisions about what counts as knowledge, competence, and merit must remain human, accountable, and contestable.
+
+## **5. Trade-offs must be made explicit**
+
+There is no neutral redesign.
+
+Every educational reform privileges some values over others: speed over deliberation, flexibility over stability, personalization over shared standards. Pretending otherwise is dishonest.
+
+This book rejects the fantasy of painless transformation. Some traditions must be abandoned. Some efficiencies must be refused. Some innovations must be constrained. The measure of success is not disruption, but **whether the redesigned system produces people capable of using powerful tools without becoming tools themselves**.
+
+### **The anchor**
+
+If education has a single obligation in the age of AI, it is this:
+
+> **To ensure that as intelligence becomes cheaper, human judgment becomes stronger.**
+
+Everything that follows in this book—its analysis, its warnings, its proposed futures—should be read against that standard.
+
+  
+
+If you want, next I can:
+
+- tighten this into a **sharper, more provocative version** (manifesto-style),
+    
+- adapt it for **policy audiences**,
+    
+- or write a **one-paragraph “moral thesis”** that can be quoted or reused across chapters and public talks.

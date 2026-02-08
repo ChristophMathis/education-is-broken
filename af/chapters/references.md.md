@@ -1,0 +1,138 @@
+42KL. 2025. "42 Kuala Lumpur." <https://42kl.edu.my/>.
+
+AICerts. 2025. "AI and Human Skills: Societal Impact 2025."
+<https://www.aicerts.ai/news/ai-and-human-skills-societal-impact-2025/>.
+
+Arizona State University / University Design Institute. 2025. "Not If
+but How: Redesigning the Future of Higher Education."
+<https://udi.asu.edu/co-lab/article/Not-If-But-How-Redesigning-the-Future-of-Higher-Education>.
+
+Bates, Tony. 2014. "The Strengths and Weaknesses of Competency-Based
+Learning in a Digital Age."
+<https://www.tonybates.ca/2014/09/15/the-strengths-and-weaknesses-of-competency-based-learning-in-a-digital-age/>.
+
+BBC News. 2016. *42: The School Where You Teach Yourself*.
+<https://www.bbc.com/news/business-37694248>.
+
+Changing Higher Ed. 2025. "Higher Ed Challenges 2025: Solution
+Examples."
+<https://changinghighered.com/higher-ed-challenges-2025-solution-examples/>.
+
+Clausius Press. 2025. *AI Bias in Educational Systems*.
+<https://www.clausiuspress.com/assets/default/article/2025/03/22/article_1742634483.pdf>.
+
+Congruence Market Insights. 2025. "Higher Education Technology Market
+Report."
+<https://www.congruencemarketinsights.com/report/higher-education-technology-market>.
+
+Contrary Research. 2025. "Guild Education: Company Profile."
+<https://research.contrary.com/company/guild>.
+
+CORE. 2015. *Competence-Based Education: A Meta-Review of Research*.
+<https://core.ac.uk/download/pdf/77612209.pdf>.
+
+Deloitte. 2025. *2025 US Higher Education Trends*.
+<https://www.deloitte.com/us/en/insights/industry/public-sector/2025-us-higher-education-trends.html>.
+
+Deseret News. 2013. "Better than Harvard? Minerva Project Aims to
+Transform Elite Education."
+<https://www.deseret.com/2013/11/7/20528963/better-than-harvard-minerva-project-aims-to-transform-elite-education/>.
+
+European Higher Education Area. 2024. *The European Higher Education
+Area in 2024*.
+<https://ehea.info/Immagini/the-european-higher-education-area-in-2024-EC0224018ENN.pdf>.
+
+European University Association. 2015. *Designing Strategies for
+Efficient Funding of Universities in Europe (DEFINE)*.
+<https://www.eua.eu/images/designing_strategies_for_efficient_funding_of_universities_in_europe_define.pdf>.
+
+European University Association. 2024. *Trends 2024*.
+<https://www.eua.eu/publications/reports/trends-2024.html>.
+
+Eurydice / EHEA. 2024. *Chapter 5: Learning and Teaching*.
+<https://eurydice.eacea.ec.europa.eu/sites/default/files/2024-05/Chapter_5_Learning_and_teaching.pdf>.
+
+Frontiers in Education. 2023. "Dropout in Higher Education: A Systematic
+Review." *Frontiers in Education*.
+<https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1244686/full>.
+
+Full Fabric. 2025. "Challenges in Higher Education Management."
+<https://www.fullfabric.com/articles/challenges-in-higher-education-management>.
+
+Goedmo. 2025. "Problems in Higher Education."
+<https://goedmo.com/blog/problems-in-higher-education/>.
+
+Hanover Research. 2025. "5 Ways Higher Education Is Changing in
+2025--26."
+<https://www.hanoverresearch.com/reports-and-briefs/higher-education/5-ways-higher-education-is-changing-in-2025-26/>.
+
+Huang, Jensen. 2024. "The Future of AI and Education."
+<https://www.youtube.com/watch?v=sjGFJNY2v1k>.
+
+KPMG. 2020. *Future of Higher Education*.
+<https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2020/10/future-of-higher-education.pdf>.
+
+Müller. 2020. *Private Funding and Its Dangers to Academia*. University
+of Bern.
+<https://www.oefre.unibe.ch/ueber_uns/personen/abt_prof_mueller/dokumente/privatefundinganditsdangerstoacademia.pdf>.
+
+OECD. 2025a. *Education at a Glance 2025*.
+<https://www.oecd.org/en/publications/education-at-a-glance-2025_1c0d9c79-en.html>.
+
+OECD. 2025b. *Education at a Glance 2025: How Is Tertiary Education
+Financed?*
+<https://www.oecd.org/en/publications/education-at-a-glance-2025_1c0d9c79-en/full-report/how-is-tertiary-education-financed_2845d742.html>.
+
+OECD. 2025c. *Trends Shaping Education 2025*.
+<https://www.oecd.org/en/publications/trends-shaping-education-2025_ee6587fd-en.html>.
+
+PMC. 2021. *Algorithmic Bias in AI Systems: Sources and Mitigation*.
+<https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/>.
+
+PMC. 2024. *European Universities Initiative: Cooperation and
+Hierarchy*. <https://pmc.ncbi.nlm.nih.gov/articles/PMC11461708/>.
+
+PR Newswire. 2017. "Guild Raises \$21 Million to Transform Corporate
+Tuition Assistance."
+<https://www.prnewswire.com/news-releases/guild-raises-21-million-to-transform-corporate-tuition-assistance-and-increase-college-access-for-frontline-employees-300514706.html>.
+
+Rensimer, Luke, and Rachel Brooks. 2024. "European Universities
+Initiative and Stratification in Higher Education." *Compare: A Journal
+of Comparative and International Education*.
+<https://discovery.ucl.ac.uk/id/eprint/10188673/1/Rensimer%20&%20Brooks%202024%20-%20EUI%20stratification%20-%20Compare%20-%20final%20version.pdf>.
+
+Rogers, Bruce. 2024. "Guild Creates Platform for Employer-Provided
+Education." Forbes.
+<https://www.forbes.com/sites/brucerogers/2024/06/05/guild-creates-platform-for-employer-provided-education/>.
+
+Schiller International University. 2025. "Risks of AI Algorithmic Bias
+in Higher Education."
+<https://www.schiller.edu/blog/risks-of-ai-algorithmic-bias-in-higher-education/>.
+
+SeatsOne. 2025. "The Ultimate Guide for Universities in 2025: Addressing
+Higher Education's Challenges."
+<https://seatsone.ai/the-ultimate-guide-for-universities-in-2025-addressing-higher-educations-challenges/>.
+
+Selingo, Jeff. 2013. "Harvard, Stanford ... Minerva? The next Elite
+University at Half the Price."
+<https://www.linkedin.com/pulse/harvard-stanford-minerva-next-elite-university-half-price-selingo>.
+
+Taylor & Francis. 2024a. *Bologna Process and European Higher Education
+Area Developments*.
+<https://www.tandfonline.com/doi/full/10.1080/21568235.2024.2398742>.
+
+Taylor & Francis. 2024b. "European Universities Initiative:
+Stratification and Inequality." *Compare: A Journal of Comparative and
+International Education*.
+<https://www.tandfonline.com/doi/full/10.1080/03057925.2024.2307551>.
+
+University Foundation / EUF. 2024. "Internationalisation of Higher
+Education: Challenges, Trends, Priorities."
+<https://uni-foundation.eu/2024/02/08/internationalisation-higher-education-challenges-trends-priorities/>.
+
+University World News. 2025. *Higher Education Funding and Policy
+Developments*.
+<https://www.universityworldnews.com/post.php?story=2025010808011331>.
+
+Verfassungsblog. 2024. "Academic Freedom and Security."
+<https://verfassungsblog.de/academic-freedom-security/>.
