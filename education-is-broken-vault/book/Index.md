@@ -20,6 +20,8 @@ longform:
     - 21.additional-reading-v3
     - 22.methodological-note-v3
     - 23.failure-modes-hybrid
+    - 32.funding-model-geographic-analysis
+    - 31.funding-model-geographic-analysis 1
     - 24.references-v3
   ignoredFiles:
     - 01.what-exactly-is-broken-v3

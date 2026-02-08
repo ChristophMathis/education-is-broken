@@ -1,4 +1,3 @@
-# _normative-manifesto
 
 # A Normative Manifesto for Education in the Age of AI
 
@@ -58,10 +57,6 @@ If education has a single obligation in the age of AI, it is this:
 
 Everything that follows in this book—its analysis, its warnings, its proposed futures—should be read against that standard.
 
-
-
-
-# 01.what-exactly-is-broken-v4
 
 # What Exactly Is Broken?
 
@@ -355,11 +350,6 @@ University World News. 2025. "Higher Education Funding and Policy Developments."
 
 Verfassungsblog. 2024. "Academic Freedom and Security." https://verfassungsblog.de/academic-freedom-security/.
 
-
-
-
-# 02.the-rise-of-the-intelligence-factory-v4
-
 # The Rise of the Intelligence Factory
 
 **How Manufacturable Intelligence Reshapes What Universities Do**
@@ -477,7 +467,7 @@ The following table contrasts the traditional university, the pure intelligence 
 
 ## The Intelligence Factory in Three Futures
 
-The forces described above -- unbundling, continuous optimization, platform economics, algorithmic assessment -- are real and unfolding now. But they do not lead to a single outcome. How these forces mature and whom they serve depends on the institutional choices made in the next few years.
+The forces described above -- unbundling, continuous optimization, platform economics, algorithmic assessment -- are real and unfolding now. But they do not lead to a single outcome. How these forces mature and whom they serve depends on the institutional choices made in the next few years. We introduce three scenarios, the "Three Futures": Drift, Platform World and Redesign.
 
 **In Drift:** Universities adopt AI tools incrementally without rethinking underlying structures. Lectures get smarter screens. Assignments get plagiarism detection. But the degree remains the primary credential and the four-year lockstep persists. The intelligence factory exists, but it serves as a supplement to the traditional model rather than a replacement. Employers talk about skills but still sort resumes by degree. AI assessment tools proliferate, but without standardization, creating a confusing landscape of proprietary systems. The agency divide widens because students must navigate fragmented tools and credential stacks without institutional scaffolding. Those with the resources to hire tutors and assemble coherent learning pathways thrive; those without, drift.
 
@@ -526,10 +516,6 @@ We argue that the most critical skill for navigating this transition -- for indi
 ## References
 
 Huang, Jensen. 2024. "The Future of AI and Education." Video. https://www.youtube.com/watch?v=sjGFJNY2v1k.
-
-
-
-# 03.how-systems-actually-change-v4
 
 # How Systems Actually Change (and Why It's Slow)
 
@@ -692,6 +678,8 @@ Second, the pace and direction of change are choices, not inevitabilities. Gover
 
 ## Five Feedback Loops in Education
 
+![[feedback-loop-in-education-2.png]]
+
 Higher education is shaped by five reinforcing loops, each connecting regulatory choices, institutional strategy, hiring practices, and learner pathways. Understanding which loops are active and which are blocked tells you why change stalls or accelerates.
 
 ### Loop 1: Accreditation → Institutional Structure → Program Design
@@ -730,10 +718,6 @@ This translation shows that the futures are not random: they follow from which l
 ---
 
 The chapters that follow examine the most promising innovations in detail, their real evidence base, their pitfalls, and the design choices that determine whether they expand opportunity or deepen inequality. But every one of those innovations operates within the system described here. Understanding the system is the first step toward changing it.
-
-
-
-# _hard-choices
 
 ## The Hard Choices: What We Must Give Up
 
@@ -820,10 +804,6 @@ AI makes intelligence cheap. That forces a reckoning.
 If education refuses to give up what no longer serves its purpose, it will preserve its forms while losing its meaning. If it accepts these losses deliberately, it may finally recover what mattered all along: forming people capable of thinking, choosing, and acting wisely when no script is available.
 
 That is the price of relevance.
-
-
-
-# 04.new-models-of-learning-v4
 
 # New Models of Learning: What's Already Here
 
@@ -1158,15 +1138,15 @@ Beneath the surface differences, the most effective innovations converge on thre
 
 Understanding why these models work -- or fail -- requires looking beneath the design innovations to the learning science embedded in each approach. The five archetypes differ not just in delivery modality or funding, but in fundamental assumptions about motivation, cognitive load, transfer, and the conditions under which learners develop metacognition and agency. Traditional universities bundle these elements invisibly; innovative models must make them explicit or risk collapse.
 
-Motivation varies across the models in ways that matter more than marketing suggests. CBE's self-paced structure works because WGU and SNHU attract motivated adult learners with professional stakes in credential completion. But the model also reveals an uncomfortable truth: removing structural deadlines and cohort progression scaffolds self-directed motivation into a selection criterion rather than a developmental outcome. For learners without intrinsic urgency -- many teenagers from under-resourced backgrounds, for instance -- the flexibility becomes paralysis. The research on motivation distinguishes between extrinsic drivers (external rewards, deadlines, social pressure) and intrinsic ones (autonomy, competence, purpose). CBE optimizes for intrinsic motivation but assumes it exists. The question Krishan's analysis leaves open: Which pedagogical structures cultivate intrinsic motivation in learners who do not arrive with it already formed? 42's peer-driven model partially answers this through social accountability (peer review, public standing in the cohort), but at the cost of excluding learners uncomfortable with that form of pressure. This is not a design flaw in isolation -- it is a necessary trade-off, but one that requires honest acknowledgment.
+**Motivation** varies across the models in ways that matter more than marketing suggests. CBE's self-paced structure works because WGU and SNHU attract motivated adult learners with professional stakes in credential completion. But the model also reveals an uncomfortable truth: removing structural deadlines and cohort progression scaffolds self-directed motivation into a selection criterion rather than a developmental outcome. For learners without intrinsic urgency -- many teenagers from under-resourced backgrounds, for instance -- the flexibility becomes paralysis. The research on motivation distinguishes between extrinsic drivers (external rewards, deadlines, social pressure) and intrinsic ones (autonomy, competence, purpose). CBE optimizes for intrinsic motivation but assumes it exists. The question Krishan's analysis leaves open: Which pedagogical structures cultivate intrinsic motivation in learners who do not arrive with it already formed? 42's peer-driven model partially answers this through social accountability (peer review, public standing in the cohort), but at the cost of excluding learners uncomfortable with that form of pressure. This is not a design flaw in isolation -- it is a necessary trade-off, but one that requires honest acknowledgment.
 
 Cognitive load operates at multiple levels across these models. CBE proponents argue that self-paced learning prevents overload by letting students control pace. But the measurement trap reveals a different problem: when institutions pile assessment atop competency demonstration atop feedback loops, the total cognitive demand can exceed what it was in a traditional semester course, particularly for students managing other work and family obligations. Minerva's active-learning seminars deliberately compress content delivery into small, peer-tested exchanges to reduce passive information load, but they simultaneously increase social and performance pressure on each student in the room. This is not inefficient; it is a conscious shift of cognitive burden from retention to judgment. But it assumes students have sufficient executive function, emotional regulation, and social confidence to operate under constant observation. Students without these capacities do not simply perform worse; they experience the environment as hostile.
 
-Transfer -- the ability to apply learning in contexts beyond the training setting -- is where the models show the starkest divergence. Guild, 42, and employer-sponsored programs promise employer-aligned competencies that transfer directly to the job. But decades of learning science research shows that skills trained in context-specific ways often do not transfer well to novel situations. A student who learns Excel through job-task examples may not recognize how to apply spreadsheet thinking to a different problem. SNHU and ECIU attempt to build transfer capacity by embedding skills across multiple contexts and disciplines, but this is effortful and invisible in curriculum documents. Minerva's approach -- teaching argumentation, ethical reasoning, and data analysis across different content domains and geographies -- is explicitly designed for transfer, but this kind of cross-disciplinary reinforcement requires substantial instructional overhead. The book identifies that many CBE curricula "fail to provide the transferable, adaptable foundations learners need for uncertain futures," but it does not fully explore *how* to design for transfer without reverting to the broad, slow curricula that CBE was meant to replace. This is a design problem that remains partially open.
+**Transfer** -- the ability to apply learning in contexts beyond the training setting -- is where the models show the starkest divergence. Guild, 42, and employer-sponsored programs promise employer-aligned competencies that transfer directly to the job. But decades of learning science research shows that skills trained in context-specific ways often do not transfer well to novel situations. A student who learns Excel through job-task examples may not recognize how to apply spreadsheet thinking to a different problem. SNHU and ECIU attempt to build transfer capacity by embedding skills across multiple contexts and disciplines, but this is effortful and invisible in curriculum documents. Minerva's approach -- teaching argumentation, ethical reasoning, and data analysis across different content domains and geographies -- is explicitly designed for transfer, but this kind of cross-disciplinary reinforcement requires substantial instructional overhead. The book identifies that many CBE curricula "fail to provide the transferable, adaptable foundations learners need for uncertain futures," but it does not fully explore *how* to design for transfer without reverting to the broad, slow curricula that CBE was meant to replace. This is a design problem that remains partially open.
 
-Metacognition -- the capacity to monitor one's own thinking, recognize gaps in understanding, and adjust strategy -- is fostered by different mechanisms across the models. Traditional seminars build metacognition through dialogue: when a peer or professor questions your reasoning, you are forced to examine your own thinking explicitly. Adaptive AI systems promise to do this at scale, but the evidence is mixed. AI tutors can identify when a student's answer is wrong, but diagnostic precision about *why* a student is wrong -- whether it is a conceptual misunderstanding, a computational error, a misreading of the problem, or a gap in background knowledge -- requires human judgment or extraordinarily sophisticated AI. SNHU's Learner Information Framework combines behavioral analytics with AI feedback, which is promising, but the manuscript does not explore whether algorithmic feedback alone can replicate the developmental effect of human dialogue. The question underlying 6.1 is: In what conditions does metacognition develop, and which model innovations support it versus undermine it?
+**Metacognition** -- the capacity to monitor one's own thinking, recognize gaps in understanding, and adjust strategy -- is fostered by different mechanisms across the models. Traditional seminars build metacognition through dialogue: when a peer or professor questions your reasoning, you are forced to examine your own thinking explicitly. Adaptive AI systems promise to do this at scale, but the evidence is mixed. AI tutors can identify when a student's answer is wrong, but diagnostic precision about *why* a student is wrong -- whether it is a conceptual misunderstanding, a computational error, a misreading of the problem, or a gap in background knowledge -- requires human judgment or extraordinarily sophisticated AI. SNHU's Learner Information Framework combines behavioral analytics with AI feedback, which is promising, but the manuscript does not explore whether algorithmic feedback alone can replicate the developmental effect of human dialogue. The question underlying 6.1 is: In what conditions does metacognition develop, and which model innovations support it versus undermine it?
 
-Agency -- the capacity to set goals, evaluate options, and act on deliberate choices rather than follow prescribed paths -- is the deepest pedagogical challenge across all models. Crucibles supposedly forge agency through authentic challenge and high stakes. But authentic challenge can also be traumatizing if the learner lacks psychological resources or perceives the stakes as arbitrary rather than meaningful. The European alliances' challenge-based learning approach explicitly builds agency by allowing students to define problems within broad domains rather than follow preset pathways, but this assumes a baseline of confidence and self-advocacy that not all students bring. The question Krishan hints at but does not fully answer: How do crucibles foster judgment and agency without reproducing social hierarchies -- that is, without becoming spaces where students from privileged backgrounds naturally feel at home and others feel excluded? And how to scaffold agency for students who arrive already self-directed? These are not rhetorical questions. They are design constraints that determine whether innovations expand or narrow educational possibility.
+**Agency** -- the capacity to set goals, evaluate options, and act on deliberate choices rather than follow prescribed paths -- is the deepest pedagogical challenge across all models. Crucibles supposedly forge agency through authentic challenge and high stakes. But authentic challenge can also be traumatizing if the learner lacks psychological resources or perceives the stakes as arbitrary rather than meaningful. The European alliances' challenge-based learning approach explicitly builds agency by allowing students to define problems within broad domains rather than follow preset pathways, but this assumes a baseline of confidence and self-advocacy that not all students bring. The question Krishan hints at but does not fully answer: How do crucibles foster judgment and agency without reproducing social hierarchies -- that is, without becoming spaces where students from privileged backgrounds naturally feel at home and others feel excluded? And how to scaffold agency for students who arrive already self-directed? These are not rhetorical questions. They are design constraints that determine whether innovations expand or narrow educational possibility.
 
 The through-line connecting these elements is that pedagogical effectiveness depends on alignment between learner readiness, instructional design, and assessment. The five models do not fail because their underlying science is wrong. They fail at scale because they assume a particular kind of learner or require substantial human support infrastructure that disappears under cost pressure. The honest reading is that no single pedagogical model works for all learners. The task of the AI-era university is not to choose between active learning and scaffolded instruction, or between self-paced and cohort-based, but to deploy multiple pedagogical approaches and explicitly match them to learner profiles, developmental readiness, and goals. This requires moving away from one-size-fits-all curricula toward genuinely adaptive systems that preserve human judgment at critical decision points.
 
@@ -1241,11 +1221,6 @@ European alliances show that transnational cooperation and micro-credentials are
 The pattern is consistent: innovation solves some problems while creating others. The models that expand access often narrow curriculum. The models that deepen learning often restrict who can participate. The models that reduce cost often shift control from learners to employers or algorithms.
 
 This is not a reason for cynicism. It is a reason for design humility. The next chapter of higher education will not be written by any single model but by the deliberate choices institutions, governments, and learners make about which trade-offs they are willing to accept -- and which ones they refuse to tolerate.
-
-
-
-
-# 05.degrees-skills-and-the-signalling-stack-v4
 
 # Degrees, Skills, and the New Signalling Stack
 
@@ -1405,8 +1380,6 @@ When these conditions are met, the signalling stack becomes legible: employers, 
 
 The systems we describe in this book -- AI-personalised learning, micro-credentials, continuous assessment -- can genuinely improve on the narrow testing regime we critique. But they can only do so if they are built with deliberate constraints against the very narrowing dynamic we criticised in the first place.
 
----
-
 ### Evidence vs Conjecture: The Signalling Stack and the Demotion of Degrees
 
 **The claim:**
@@ -1526,11 +1499,6 @@ The arguments draw on
 - Evidence on the degree premium relies on cross-national labour force surveys and econometric studies of returns to education.
 - Discussion of blockchain credentials references pilot implementations by the European Consortium of Innovative Universities and the Europass digital wallet initiative.
 The signalling stack framework is the authors' synthesis and is not drawn from a single empirical source.
-
-
-
-
-# 06.the-stratification-trap-v4
 
 # The Stratification Trap: Who Gets Left Behind
 
@@ -2087,11 +2055,6 @@ Selingo, Jeff. 2014. "Harvard, Stanford … Minerva?" LinkedIn, April 15. https:
 
 Taylor and Francis. 2024b. "European Universities Initiative and Institutional Stratification." *Taylor & Francis Online*. https://www.tandfonline.com/doi/full/10.1080/03057925.2024.eui-stratification.
 
-
-
-
-# 07.learning-in-companies-v4
-
 # Learning in Companies: Second Chance or Parallel System?
 
 For millions of workers, the most serious learning they do happens not at a university but at their workplace. The employee who learns Python through a company-sponsored platform, the manager who develops leadership skills through an AI coaching tool, the technician who masters new equipment in a VR simulation -- these are not exceptions. They are becoming the norm.
@@ -2351,11 +2314,6 @@ Eightfold.ai. 2024. "AI-Powered Talent Intelligence Platform." Eightfold.ai. htt
 
 Hilton Hotels. 2024. "AI-Driven Employee Engagement and Retention." Hilton Corporate Communications. https://www.hilton.com/corporate/.
 
-
-
-
-# 08.ai-in-hiring-v3
-
 # AI in Hiring: How Jobs Really Change Education
 
 If you have applied for a job recently, there is a good chance no human read your application first. An algorithm did. It scanned your resume for keywords, scored your skills against a job description, and decided in seconds whether you deserved a closer look. If you made it past that gate, a chatbot may have asked you screening questions. If you answered well enough, your video interview might have been analyzed for tone, word choice, and response time before a recruiter ever pressed play.
@@ -2545,11 +2503,6 @@ World Economic Forum. 2025. *The Future of Jobs Report 2025*. Geneva: World Econ
 
 GDPR. 2018. *General Data Protection Regulation (EU) 2016/679*. Brussels: Official Journal of the European Union. https://gdpr-info.eu/.
 
-
-
-
-# 09.universities-as-public-institutions-v4
-
 # Universities as Public Institutions in an AI Era
 
 The previous chapters have traced how AI is unbundling the university, how new models are emerging, who gets left behind, and how employers and platforms are reshaping the demand side of education. Much of that story emphasizes disruption, efficiency, and market alignment. This chapter asks a different question: What would we lose if universities became nothing more than credential factories optimized for employer satisfaction and platform economics?
@@ -2640,13 +2593,13 @@ Academic freedom -- the right of scholars to pursue research and teach without p
 
 ## Civic Education in an Age of Algorithmic Manipulation
 
-Chapter 09 argues that universities are sites of democratic citizenship formation, and that this function matters more in an AI era, not less. But "citizenship formation" remains a phrase rather than a practice. What does civic education actually entail in conditions where algorithmic systems mediate political discourse, where deepfakes can simulate public figures, where microtargeted content can isolate people into hostile epistemic bubbles? And how would an institution measure whether civic education is working when the effects are distributed across years and contexts far from campus?
+The preceding sections argue that universities are sites of democratic citizenship formation, and that this function matters more in an AI era, not less. But "citizenship formation" remains a phrase rather than a practice. What does civic education actually entail in conditions where algorithmic systems mediate political discourse, where deepfakes can simulate public figures, where microtargeted content can isolate people into hostile epistemic bubbles? And how would an institution measure whether civic education is working when the effects are distributed across years and contexts far from campus?
 
 The traditional model of civic education assumed a relatively stable information environment and face-to-face deliberation. Students were exposed to texts representing different perspectives, guided through argument construction, and given practice in structured debate. The implicit theory was that exposure plus practice would cultivate judgment and the habit of reasoning through disagreement. This model has limits even in stable conditions -- not all students benefit equally from Socratic dialogue, and classroom diversity does not automatically produce genuine encounter across lines of difference. But in an AI-saturated information landscape, these limits become acute.
 
 Consider what happens when a university student leaves a deliberative seminar and returns to an algorithm-curated social feed. The feed shows her content that reinforces her existing beliefs, shows her engagement metrics that reward inflammatory responses, and shows her comments flagged by peers who already agree with her. The algorithm does not know she just learned to steel-man opposing arguments or hold provisional beliefs. It knows her engagement history, and it optimizes for continued engagement, which correlates with emotional activation and identity confirmation. One deliberative seminar a semester competes against hours daily of algorithmic feedback pushing toward polarization. This is not a pedagogical failure. It is a mismatch between the pace and force of educational intervention and the pace and force of the environment the student inhabits outside the classroom.
 
-Effective civic education in this context requires explicit curriculum design around three capabilities that traditional liberal arts cultivate implicitly but do not name. First is algorithmic literacy -- not "AI ethics" as an abstract seminar, but concrete understanding of how recommendation systems work, what they optimize for, what they cannot see, and how they can be manipulated. This is not technical knowledge for its own sake. It is essential context for making sense of the information environment students encounter. Second is source epistemology -- the capacity to evaluate not just the truth of a claim but the credibility of the source, the incentives embedded in the platform delivering it, and the alternative sources that might exist but are not recommended to you. This is version of media literacy for the algorithmic age. Third is deliberative muscle -- regular, structured practice in good-faith disagreement with people who disagree with you on matters that matter, facilitated by someone trained to hold the space and interrupt bad-faith moves. The deliberative seminar does this, but it needs to be embedded across the curriculum, not isolated in a single course.
+Effective civic education in this context requires explicit curriculum design around three capabilities that traditional liberal arts cultivate implicitly but do not name. First is **algorithmic literacy** -- not "AI ethics" as an abstract seminar, but concrete understanding of how recommendation systems work, what they optimize for, what they cannot see, and how they can be manipulated. This is not technical knowledge for its own sake. It is essential context for making sense of the information environment students encounter. Second is **source epistemology** -- the capacity to evaluate not just the truth of a claim but the credibility of the source, the incentives embedded in the platform delivering it, and the alternative sources that might exist but are not recommended to you. This is version of media literacy for the algorithmic age. Third is **deliberative muscle** -- regular, structured practice in good-faith disagreement with people who disagree with you on matters that matter, facilitated by someone trained to hold the space and interrupt bad-faith moves. The deliberative seminar does this, but it needs to be embedded across the curriculum, not isolated in a single course.
 
 What does this look like institutionally? It means civic education is not a requirement box checked by a single civics course or service-learning assignment. Instead, it is integrated into disciplinary content: a history course on the American civil war asks how competing communities remember and interpret the same events; a biology course on pandemic policy asks how scientific uncertainty gets communicated in public discourse and how algorithms shape belief in scientific findings; a literature course uses narrative theory to examine how stories shape identity and group membership. It means students across disciplines encounter the question: What are the ethical dimensions of the knowledge I am learning, and how does power shape who gets believed? It means governance is not decorative: student governments make decisions with real consequences and real stakes, and faculty are present to coach students through the complexity of collective decision-making under disagreement.
 
@@ -2676,43 +2629,67 @@ The key principle is diversification with purpose. Each revenue stream serves di
 
 ### A Concrete Funding Architecture: How Mission Survives Market Pressure
 
-The five funding streams described above are necessary components, but they are not a strategy. A strategy requires specifying how much revenue comes from each source, how that composition changes the incentives institutions face, and what safeguards protect core mission when markets shift. This section translates principle into practice by modeling a realistic funding composition and the choices it requires.
+The five funding streams described above are necessary components, but they are not a strategy. A strategy requires specifying how much revenue comes from each source, how that composition changes the incentives institutions face, and what safeguards protect core mission when markets shift. This section translates principle into practice by modeling realistic funding compositions and the choices they require.
 
-Consider a mid-tier public research university with 12,000 students, significant research output in STEM and social sciences, and a commitment to regional accessibility. In 2025, such an institution typically derives revenue as follows: roughly 30% from state appropriations, 35-40% from tuition and fees, 10-15% from research funding (grants, contracts), 5-10% from philanthropic revenue, and the remainder from auxiliary services, licensing, and other sources. This composition leaves the institution vulnerable: state funding has declined over decades, making the university heavily dependent on tuition, which creates incentives to focus on recruitment, retention, and satisfaction rather than intellectual rigor; research funding is competitive and volatile, favoring applied work with immediate outcomes; and philanthropic revenue is concentrated in elite institutions.
+The challenge is that higher education systems across OECD countries start from radically different funding structures. What counts as a dangerous dependency in one system may be unremarkable in another. A protective architecture must therefore be grounded in structural principles that hold across systems, even when the numbers look different. We begin with three cases that illustrate the range.
 
-A mission-protective funding model would shift this composition deliberately. The goal is not to eliminate any revenue source but to rebalance so that no single source dictates institutional priorities.
+#### Case 1: The American mid-tier public research university
 
-**A protective composition might look like this:**
+Consider a mid-tier US public research university with 12,000 students, significant research output in STEM and social sciences, and a commitment to regional accessibility. In 2025, such an institution typically derives roughly 30% of revenue from state appropriations, 35--40% from tuition and fees, 10--15% from research funding, 5--10% from philanthropic revenue, and the remainder from auxiliary services, licensing, and other sources (OECD 2025a).
 
-- **Public funding: 35-40% of revenue** (increase from current 30%, requiring political advocacy and demonstrated public benefit). This is the anchor function. Public funding should protect basic research capacity, subsidize tuition for lower-income students, and fund programs that serve the public good even when they do not maximize revenue. The trade-off: this requires universities to be vocal about their role in the public sphere, to measure and communicate public benefit beyond employment rates, and to accept public accountability for how funds are used. Public funding formulas should reward research output, retention of under-represented populations, and civic engagement, not just completion rates and employment outcomes.
+This composition leaves the institution deeply vulnerable. State funding has declined for decades, making the university heavily dependent on tuition, which creates incentives to prioritise recruitment, retention, and satisfaction over intellectual rigour. Research funding is competitive and volatile, favouring applied work with immediate payoffs. Philanthropic revenue is concentrated in a handful of elite institutions and barely relevant for the majority.
 
-- **Tuition and fees: 25-30% of revenue** (down from current 35-40%). Deliberately capping tuition revenue forces institutions to make hard choices about program portfolio and efficiency. It prevents the race to maximize enrollment and satisfaction metrics. It requires that institutions ask: which programs are essential to our mission, and which are we running only because they are profitable? Tuition levels should be means-tested and kept below thresholds that create prohibitive debt. Income-contingent repayment, where students pay a percentage of earnings rather than a fixed amount, protects access while maintaining revenue. This approach requires public policy support (federal or state income-contingent repayment systems) but is feasible and used successfully in Australia, the Netherlands, and parts of Scandinavia.
+The structural problem is clear: tuition dependence at 35--40% means that students are no longer primarily learners to be educated -- they are revenue units to be retained. A mission-protective model would need to shift public funding back toward 35--40%, reduce tuition dependence to 25--30%, and build new revenue from platforms and continuing education (5--10%) while keeping philanthropy as a supplement, not a pillar. Income-contingent repayment, used successfully in Australia and the Netherlands, can keep tuition functional without making it dominant. But none of this happens without political advocacy: universities must demonstrate public benefit persuasively enough to reverse the long-term decline in state investment.
 
-- **Research and grant funding: 15-20% of revenue** (stable or modestly increased). This revenue stream should fund research missions, not substitute for public funding of teaching and facilities. The risk is that grant-dependent institutions gravitate toward applied research that generates funding, away from basic research that generates knowledge. Protecting basic research capacity requires institutional choices: dedicating a portion of revenue to research that does not directly generate external funding, protecting faculty time for unfunded inquiry, and resisting pressure to treat all research through a commercialization lens. Some universities have created dedicated research funds, often small, that support high-risk, high-reward projects unlikely to attract external funding. This model works but requires universities to decline other revenue opportunities.
+#### Case 2: The German university
 
-- **Philanthropy and endowment: 10-15% of revenue** (increase through capital campaigns, but with guardrails). Private philanthropy can fund innovation and expansion, but it is deeply unequal (a handful of elite institutions control the vast majority of endowment wealth) and creates risk of donor influence on mission. Universities dependent on individual major donors for core functions have limited independence. Protective policies include: endowment spending policies that limit distributions to sustainable percentages (typically 4-5% annually, not 100% payout), preventing short-term donor demands from depleting reserves; naming gift policies that limit how much naming rights can constrain academic program design; and diversified donor bases that prevent any single donor from holding vetoing power. Many universities fail at this last point, allowing major donors to shape curriculum, hiring, or research directions. The protective approach is to reserve philanthropic funding for genuinely new initiatives and innovation, not core functions.
+A German mid-tier university operates in a structurally different environment. Public funding -- primarily from the respective Land -- accounts for 55--65% of revenue. General tuition fees were abolished across all German states by 2014, with the sole exception of fees for non-EU students in Baden-Württemberg (1,500 EUR per semester). Semester contributions of 200--300 EUR cover administration and transit passes, not instruction. Competitive research grants (DFG, BMBF, EU framework programmes, industry contracts) have grown significantly -- the DFG Förderatlas 2024 documents a 19% increase in third-party funding from 2019 to 2022 -- and now constitute 25--35% of total revenue. Philanthropy accounts for 1--2% at most. Revenue from continuing education and platforms is below 1% (Destatis 2023; DFG 2024).
 
-- **Platform and credential revenue: 5-10% of revenue** (strategic addition, with constraints). As universities develop micro-credentials, online programs, and learning platforms, they can generate revenue from learners outside their traditional student body. This is legitimate income, but it requires structural separation from core degree programs and research missions. A protective model creates a separate continuing education or professional education division, ring-fences its revenue, and ensures it does not cannibalize the university's research and undergraduate missions. The revenue from this division should cross-subsidize public-good functions (making low-income access programs sustainable) rather than replace public funding.
+The German vulnerability is not tuition dependence but a different kind of imbalance: the steady shift from stable Grundmittel (core public funding for teaching and basic operations) toward competitive Drittmittel (third-party grants tied to specific projects and timelines). This shift creates incentives that are subtler than tuition dependence but structurally similar. Faculty spend increasing time writing proposals rather than teaching or pursuing unfunded inquiry. Research agendas drift toward topics that attract funding rather than topics that need investigation. Temporary contracts proliferate because grant-funded positions are inherently time-limited, contributing to the well-documented precarity of early-career researchers in the German system. And universities that are less successful at winning grants -- often the smaller, regionally focused institutions -- fall further behind, not because their teaching or research is worse but because competitive funding rewards scale.
 
-**The protective principle:** Each revenue stream should finance functions aligned with its incentive structure. Public funding finances basic research and broad access. Tuition finances instruction and facilities. Research funding finances research production. Philanthropy finances innovation and expansion. Platform revenue finances scalable, modular offerings. No single source should exceed 40% of revenue, ensuring that no funder can dictate institutional direction.
+A protective model for the German system would stabilise the ratio of Grundmittel to Drittmittel, ensuring that core public funding covers teaching, infrastructure, and a protected share of basic research -- not just the minimum that keeps the lights on while grants fund everything else. It would also invest seriously in a revenue stream that German universities have largely neglected: continuing education and professional development, which could realistically contribute 5--10% of revenue if structured as a separate division with ring-fenced income. The near-absence of tuition is a strength that should be preserved, but it makes the system entirely dependent on the political willingness of state governments to fund universities adequately -- and that willingness has not kept pace with rising costs and enrolment.
 
-**What this composition requires:**
+#### Case 3: The British mid-tier university
 
-This model requires universities to be strategically intentional about what they do well and what they decline to do. A mid-tier research university cannot be all things to all students. The protective funding model forces clarity: What research is our distinctive contribution? Who are we primarily accountable to? What programs serve our mission? What programs generate revenue but do not serve our mission? The hard choice is often the last one: universities will need to discontinue or significantly scale back programs that are popular and profitable but ancillary to their core mission -- professional master's programs that are essentially corporate training, online bachelor's degrees designed to maximize revenue, credential factories optimized for scale.
+The UK system, particularly in England, has converged structurally with the American model more than any other European country. Following the 2012 reform that tripled the tuition cap to GBP 9,250 per year, public teaching grants collapsed. By 2024, direct government grants account for roughly 11--12% of total revenue at a typical mid-tier university, down from 39% in 2006. Tuition fees -- domestic and international combined -- now constitute 52--53% of institutional income. Research grants and contracts contribute around 14%, but three-quarters of that funding flows to the 24 Russell Group universities. Philanthropy accounts for roughly 2%, though it is radically concentrated: Oxford and Cambridge together hold nearly half of all charitable donations to UK higher education. The remaining 21--22% comes from accommodation, conferencing, IP licensing, and other commercial activities (HESA 2024; House of Commons Library 2024).
 
-This is difficult. Programs generate constituency and revenue. But a university that is all things is credible at nothing. The protective model requires institutional leadership willing to say "we will not do that, even if it is profitable," and boards willing to back those choices.
+The UK's distinctive vulnerability is its dependence on international student fees, which account for roughly 23% of total sector income. International tuition is uncapped and has risen steeply, creating a structural reliance on a revenue stream that is sensitive to geopolitical shifts, visa policy changes, and competition from other English-speaking countries. The Office for Students warned in 2024 that 72% of English universities could be operating at a deficit by 2025/26 if international recruitment falters. This is not a hypothetical risk -- it is a live one.
 
-The model also requires political advocacy. Public funding at levels that make it an anchor requires universities to demonstrate public benefit and to articulate why basic research, civic education, and cultural preservation are public goods worth funding. Many universities have ceded this argument to more vocal critics. The protective model requires universities to reclaim it, publicly and consistently.
+A protective model for the UK would need to rebuild public funding toward 20--25% of revenue, reduce tuition dependence to 35--40% (primarily by diversifying away from international fee income as the balancing item), and invest in platform and continuing education revenue at 5--10%. The deeper structural challenge is political: the UK made a deliberate policy choice to shift the cost of higher education from the state to the student. Reversing that requires not just institutional advocacy but a change in the political consensus about who benefits from higher education and who should pay.
 
-**What this model does not solve:**
+#### Three systems, one structural logic
 
-This architecture protects institutional autonomy and mission, but it does not solve the fundamental problem of rising costs. Universities are labor-intensive; they employ skilled faculty, administrators, counselors, and support staff. Salaries are rising to match market rates. Capital costs -- maintaining aging buildings, updating labs, investing in new technologies -- are substantial. Costs will continue rising faster than revenue in most scenarios.
+The numbers differ, but the underlying dynamics are the same. Every higher education system faces the question of what happens when a single revenue source becomes dominant: tuition in the US and UK, competitive grants in Germany, state appropriations in Nordic systems. In each case, the dominant source reshapes institutional behaviour in ways that may conflict with the university's public mission.
 
-This model does not prevent that. What it does is ensure that institutions facing cost pressures cannot simply abandon their public mission, cut research to preserve budgets, or shift entirely to employer-aligned training to maximize revenue. The funding architecture creates friction, requiring institutions to make explicit choices and trade-offs rather than drifting toward mission compromise.
+The following principles hold regardless of where a university sits on the public-to-market spectrum:
 
-The second thing this model does not do is address extreme inequality across institutions. Elite universities with massive endowments can pursue this model easily. Mid-tier public research universities can implement it with political will. Community colleges and regional universities face tighter constraints. For these institutions, the protective model requires significant public funding increases or regional partnerships that share costs and infrastructure. This is politically difficult but necessary if the goal is a diverse higher education system rather than a bifurcated one where elite institutions do the full mission and everyone else operates as a training facility.
+**Principle 1: No single revenue source should exceed 40% of total income.** This is the diversification threshold. Once any source crosses it, that funder's incentives begin to dictate institutional priorities -- whether the funder is a government ministry, a tuition-paying student body, or a research council. The specific sources that matter vary by system: in the US, the task is to reduce tuition below 40%; in Germany, to prevent Drittmittel from crossing the same threshold; in the UK, to rebuild public funding so that tuition does not dominate.
 
-The third limitation is that this model assumes stable or modestly increasing public investment in higher education. If public funding continues its long-term decline, no internal allocation can prevent mission drift. At that point, the question becomes systemic: Does a society still value the functions universities serve, and is it willing to fund them? The protective funding model answers that question by making it explicit. If public funding falls below the level required to protect research, broad access, and civic mission, then institutions cannot be blamed for abandoning those functions -- the society that failed to fund them has already made the choice.
+**Principle 2: Public funding must anchor the functions that markets will not sustain.** Basic research, civic education, broad access, and cultural preservation are public goods. Markets will systematically underfund them because their benefits are diffuse and long-term. Public funding -- whether from national governments, regional authorities, or supranational bodies like the European Commission -- is not one revenue stream among equals. It is the structural anchor that makes everything else possible. The form varies: Landesmittel in Germany, HEFCE/OfS grants in England, state appropriations in the US, direct government funding in Scandinavia. The function is the same.
+
+**Principle 3: Tuition, where it exists, must remain a contribution, not the primary revenue mechanism.** Systems that rely on tuition for more than 30% of revenue create consumer dynamics that distort institutional purpose. Students become customers to be satisfied rather than learners to be challenged. Institutions optimise for enrolment and retention metrics rather than intellectual rigour. Where tuition exists, it should be means-tested, capped, and coupled with income-contingent repayment systems that protect access. Where tuition does not exist -- as in most of Germany and Scandinavia -- its absence is a feature worth defending, not a gap to be filled.
+
+**Principle 4: Competitive research funding must not substitute for core institutional funding.** Research grants fund research production. They should not fund teaching, infrastructure, or basic operations. When they do -- as increasingly happens in Germany and the UK -- universities become grant-harvesting operations rather than institutions capable of sustaining long-term inquiry. Protecting basic research capacity requires institutional choices: dedicating a share of core revenue to unfunded inquiry, protecting faculty time from the proposal-writing treadmill, and resisting the pressure to treat all research through a commercialisation lens.
+
+**Principle 5: New revenue streams -- platforms, continuing education, corporate partnerships -- must cross-subsidise public goods, not replace public funding.** Platform revenue and professional education can realistically contribute 5--10% of revenue if structured as separate divisions with ring-fenced income. This is a genuine opportunity, especially for German and continental European universities that have barely tapped continuing education markets. But these revenues must flow toward making the public mission sustainable -- subsidising access, funding basic research, supporting equity infrastructure -- rather than becoming ends in themselves. A university that builds a profitable online division while its humanities faculty shrinks has not diversified. It has drifted.
+
+**Principle 6: Philanthropy is a supplement, not a structural pillar.** In the US, philanthropy and endowments realistically contribute 5--10% for mid-tier institutions and much more for elite ones. In continental Europe, the figure is 1--2% and unlikely to change substantially in the medium term. Funding models that assume 10--15% from philanthropy are realistic only for a narrow slice of institutions, mostly in the anglophone world. For the majority of universities globally, philanthropy funds innovation and experimentation at the margin. It cannot and should not fund core operations, because donor influence over institutional mission is a direct threat to autonomy.
+
+#### What these principles require -- and what they do not solve
+
+These principles require universities to be strategically intentional about what they do well and what they decline to do. A mid-tier research university cannot be all things to all students. The protective funding model forces clarity: What research is our distinctive contribution? Who are we primarily accountable to? What programs serve our mission? What programs generate revenue but do not serve it? The hard choice is often the last one: universities may need to discontinue or scale back programmes that are popular and profitable but ancillary to their core mission.
+
+This is difficult. Programmes generate constituency and revenue. But a university that is all things is credible at nothing. The protective model requires institutional leadership willing to say "we will not do that, even if it is profitable," and governance structures willing to support those choices.
+
+The model also requires political advocacy. Public funding at levels that anchor the mission requires universities to demonstrate public benefit and to articulate why basic research, civic education, and cultural preservation are public goods worth funding. Many universities have ceded this argument. The protective model requires them to reclaim it -- publicly, consistently, and with evidence.
+
+What the model does not solve is the fundamental problem of rising costs. Universities are labour-intensive institutions. Faculty salaries, administrative staff, student support services, infrastructure maintenance, and technology investments all rise faster than most revenue streams. No internal allocation can reverse that structural reality.
+
+What the model does is ensure that institutions facing cost pressures cannot simply abandon their public mission, cut research to preserve budgets, or shift entirely to employer-aligned training to maximise revenue. The funding architecture creates friction, requiring institutions to make explicit choices and trade-offs rather than drifting toward mission compromise.
+
+The model also does not address extreme inequality across institutions. Elite universities with massive endowments can pursue diversified funding easily. Mid-tier public research universities can implement it with political will. Community colleges, regional universities, and Fachhochschulen face tighter constraints. For these institutions, the protective model requires significant public funding increases or regional partnerships that share costs and infrastructure. This is politically difficult but necessary if the goal is a diverse higher education landscape rather than a bifurcated one where elite institutions pursue the full mission and everyone else operates as a training facility.
+
+Finally, the model assumes that societies continue to value the functions universities serve and are willing to fund them. If public funding continues its long-term decline -- as it has in the US and UK -- no internal allocation can prevent mission drift. At that point, the question is no longer institutional. It is political: does a society still believe that basic research, civic education, broad access, and independent inquiry are public goods worth paying for? The protective funding model makes this question explicit. If the answer is no, institutions cannot be blamed for the consequences. The society that withdrew funding has already made the choice.
 
 ## The Risk of Mission Drift
 
@@ -2752,11 +2729,6 @@ The argument of this chapter is that societies need universities to do things th
 
 The AI-era university will be hybrid: partly online and partly residential, partly modular and partly integrated, partly employer-aligned and partly independent, partly automated and partly irreducibly human. The challenge is not to choose between tradition and innovation but to hold both in productive tension -- embracing new tools and models while defending the commitments that make universities worth saving.
 
-
-
-
-# 10.three-futures-for-education-v4
-
 # Three Futures for Education: Choice, Not Fate
 
 Technology does not determine outcomes. Institutions, policies, and people do.
@@ -2764,7 +2736,6 @@ Technology does not determine outcomes. Institutions, policies, and people do.
 The same AI tutor that could democratize learning for millions can also widen the gap between those who can navigate a complex credential landscape and those who cannot. The same platform that matches workers to jobs in seconds can also reduce a human career to an algorithmic score. The same university that survives by cutting costs and adopting AI piecemeal can also reinvent itself as a place where young people learn to think, collaborate, and act with judgment.
 
 Everything described in this book -- the unbundling of universities, the rise of micro-credentials, the corporate takeover of workforce learning, the algorithmic reshaping of hiring -- points not toward a single inevitable future but toward a branching set of possibilities. Which future we get depends on choices being made right now by governments, university leaders, employers, platform companies, and individuals. None of these actors is powerless. None is all-powerful. And none can afford to wait.
-
 ## How to Read This Chapter
 
 The chapters you have read describe real forces at work: AI is improving, institutions are under pressure, employers want better information about what candidates can do, micro-credentials are proliferating, hiring is becoming more algorithmic. These are observable trends, not speculations. But observable trends do not have predetermined endpoints.
@@ -2774,6 +2745,7 @@ A trend toward AI-powered personalization in education can lead to three differe
 The earlier chapters describe what is being attempted and what pressures are shaping education right now. This chapter asks: to what end? If these forces continue uncontested, where do they lead? What choices are we making implicitly by our current trajectories? And what choices do we still have?
 
 The three futures that follow are not equally likely. But they are all possible, and they represent the major pathways that current dynamics could take. As you read the earlier chapters, it may help to ask: "Which future is this description primarily pointing toward?" Usually the answer is "all three in different ways" or "two out of three." Where the answer is "one specific future," that matters -- because it means the outcome described is not inevitable, but conditional on a particular set of choices.
+
 
 ---
 
@@ -2958,11 +2930,6 @@ The future of education is not something that happens to us. It is something we 
 
 That question will not be answered by technology. It will be answered by us.
 
-
-
-
-# 21.additional-reading-v3
-
 # Additional Reading
 
 A curated guide for readers who want to go deeper into the themes explored in this book: the structural failures of higher education, the rise of alternative learning models, AI in education and hiring, and the future of credentials and skills.
@@ -3075,11 +3042,6 @@ Sources that challenge, complicate, or directly contradict the book's arguments.
 
 - **David Deming, "The Growing Importance of Social Skills in the Labor Market" (2017), *Quarterly Journal of Economics*.** While broadly compatible with the book's argument about non-cognitive skills, Deming's work also shows that traditional degree programmes remain effective at developing the social skills employers value most.
 
-
-
-
-# 22.methodological-note-v3
-
 # Methodological Note
 
 This book draws on evidence of widely varying quality. Because education reform attracts strong claims from parties with strong incentives -- universities defending their models, vendors selling platforms, governments justifying policies -- readers deserve transparency about what kind of evidence underpins any given claim.
@@ -3113,11 +3075,6 @@ Where a claim is supported by Tier 1 or Tier 2 evidence, we generally present it
 These caveats are not meant to discredit the claims but to help readers distinguish between what is well-established and what is promising but unverified. In a field where bold claims travel faster than rigorous evidence, this distinction matters.
 
 The evidence base for educational innovation is improving, but it remains thinner than the confidence of the claims made about it. We have tried to be honest about that throughout.
-
-
-
-
-# 23.failure-modes-hybrid
 
 # Failure Modes — How the Hybrid Future Goes Wrong
 
@@ -3250,9 +3207,160 @@ The hybrid future is not a destination. It is a continuous negotiation between h
 
 When that negotiation stops, the system fails—quietly, efficiently, and at scale.
 
+# Finanzierungszahlen in Kapitel 09
+
+## Woher kommen die Zahlen?
+
+Die Referenzzahlen im Abschnitt "A Concrete Funding Architecture" (Zeile 125–163) beschreiben eine **US-amerikanische mid-tier public research university**. Konkret:
+
+### Status-quo-Modell (Zeile 129)
+
+| Einnahmequelle | Angabe im Text | Implizite Basis |
+|----------------|---------------|-----------------|
+| State appropriations | ~30% | US-Landesmittel — typisch für eine State University nach Jahrzehnten sinkender öffentlicher Finanzierung |
+| Tuition & fees | 35–40% | US-Studiengebühren ($10.000–$15.000/Jahr in-state, $25.000–$40.000 out-of-state) |
+| Research grants | 10–15% | NSF, NIH, DoD — föderale Forschungsförderung |
+| Philanthropy | 5–10% | US-Spenden- und Endowment-Kultur, für mid-tier Universitäten realistisch |
+
+### Zielmodell (Zeilen 133–143)
+
+| Einnahmequelle | Vorschlag im Text | Implizite Basis |
+|----------------|------------------|-----------------|
+| Public funding | 35–40% | US-Ziel: Erhöhung von 30% — immer noch weit unter europäischem Niveau |
+| Tuition | 25–30% | Senkung von 35–40% — immer noch um Faktor 3–6 über EU-Durchschnitt |
+| Research/grants | 15–20% | Vergleichbar mit europäischen Werten |
+| Philanthropy | 10–15% | Unrealistisch für europäische Hochschulen |
+| Platform revenue | 5–10% | Hypothetisch, kein Referenzmarkt |
+
+**Fazit: Das gesamte Modell — Status quo wie Ziel — basiert auf US-Verhältnissen und ist für europäische Leser irreführend.**
+
+---
+
+## Wie sehen die tatsächlichen Zahlen in Deutschland, UK und EU aus?
+
+### Deutschland (typische Universität ohne Uniklinikum)
+
+| Einnahmequelle | Anteil | Bemerkung |
+|----------------|--------|-----------|
+| Grundmittel (Landesmittel) | **55–65%** | Hauptfinanzierungsquelle; Länder tragen ~86%, Bund ~14% |
+| Drittmittel (DFG, BMBF, EU, Industrie) | **25–35%** | Wachsend; +19% von 2019–2022 (DFG Förderatlas 2024) |
+| Studiengebühren | **~0%** | Seit 2014 in allen Bundesländern abgeschafft (Ausnahme: Non-EU in BaWü: 1.500€/Semester) |
+| Semesterbeiträge | **<1%** | 200–300€/Semester für Verwaltung/Semesterticket |
+| Spenden/Stiftungen | **1–2%** | Kaum entwickelte Spendenkultur |
+| Weiterbildung | **<1%** | Wachsend, aber marginal |
+
+**Strukturelles Merkmal:** Deutschland hat kein Tuition-Problem, aber ein wachsendes Drittmittel-Abhängigkeitsproblem. Die Verschiebung von Grundmitteln zu kompetitiven Drittmitteln erzeugt ähnliche Fehlanreize wie Tuition-Abhängigkeit in den USA — nur subtiler.
+
+### UK (post-2012-Reform, mid-tier Universität)
+
+| Einnahmequelle | Anteil | Bemerkung |
+|----------------|--------|-----------|
+| Tuition fees (gesamt) | **52–53%** | Davon ~24% domestic (gedeckelt bei £9,250), ~23% international |
+| Government funding body grants | **11–12%** | Dramatischer Rückgang von 39% (2006) auf 11% (2024) |
+| Research grants & contracts | **14%** | UKRI, Charities, EU, Industrie; 75% gehen an Russell Group |
+| Endowments & donations | **~2%** | Stark konzentriert: Oxford/Cambridge = 48% aller Spenden |
+| Other income | **21–22%** | Wohnheime, Konferenzen, IP, Catering |
+
+**Strukturelles Merkmal:** UK hat das am stärksten marktgetriebene System Europas. Die Abhängigkeit von internationalen Studiengebühren (~23% des Gesamteinkommens) ist ein massives Klumpenrisiko — 72% der Universitäten könnten bis 2025/26 im Defizit sein (OfS 2024).
+
+### EU-Durchschnitt
+
+| Einnahmequelle | Anteil | Bandbreite |
+|----------------|--------|------------|
+| Öffentliche Mittel | **65–75%** | Nordisch: 85–96%; Kontinental: 60–85%; UK: 43% |
+| Studiengebühren (Haushalte) | **8–15%** | Nordisch: 0%; Kontinental: 5–10%; UK: 33% |
+| Forschungsdrittmittel | **5–10%** | Horizon Europe + nationale Förderung |
+| Wirtschaft/Industrie | **2–5%** | Verträge, Partnerschaften |
+| Philanthropie | **<1%** | Keine vergleichbare Tradition |
 
 
-# 24.references-v3
+
+
+# 31.funding-model-geographic-analysis 1
+
+Europäische Universitäten werden überwiegend aus öffentlichen Mitteln finanziert (Steuern der Gebietskörperschaften), ergänzt um Studiengebühren (v. a. UK, einige Masterprogramme), Drittmittel für Forschung (z. B. Forschungsräte, EU, Wirtschaft) sowie sonstige Eigen­einnahmen (Weiterbildung, Dienstleistungen, Stiftungen).europa+1
+
+## Zentrale Finanzierungsquellen
+
+- Öffentliche Grundmittel: Kernhaushalte der Universitäten aus nationalen, regionalen und lokalen Budgets; in Europa meist >70 % der Hochschuleinnahmen, in vielen Ländern >80 %.eua+1
+    
+- Private Haushalte: Studiengebühren, Verwaltungsgebühren, Wohn‑ und Mensa­leistungen; Anteil stark länderabhängig (sehr gering in Nordics, sehr hoch in England und USA).oecd+1
+    
+- Unternehmen und Non‑Profit: Forschungsaufträge, Stiftungsprofessuren, Kooperationen, Spenden; in Europa meist <30 % der Gesamteinnahmen der Universitäten.[eua]​
+    
+- Finanzhilfe an Studierende: Öffentliche Ausgaben fließen teils direkt an Studierende (Stipendien, Darlehen), teils an Hochschulen; insbesondere in NL, Skandinavien, Irland ein hoher Anteil der tertiären Bildungsausgaben.europa+1
+    
+
+## Deutschland
+
+- Laut OECD stammen bei tertiären Bildungseinrichtungen in Deutschland rund 80–90 % der Ausgaben aus öffentlichen Quellen (Bund, Länder, Kommunen), private Quellen (Haushalte, Unternehmen) machen etwa 10–20 % aus.gpseducation.oecd+1
+    
+- Im nicht‑tertiären Bereich liegt der private Anteil bei etwa 11 %, im tertiären Bereich etwas höher durch Gebühren nichtstaatlicher Anbieter und Drittmittel.[gpseducation.oecd]​
+    
+- Drittmittel (z. B. DFG, EU, Industrie) sind innerhalb der Hochschulbudgets wichtig: 2022 erhielten deutsche Hochschulen ca. 27 Mrd. € Grundmittel und 10,4 Mrd. € Drittmittel (Drittmittelquote gut ein Viertel der Gesamteinnahmen).[foerderatlas.dfg]​
+    
+
+## Deutschland – grobe Struktur tertiärer Finanzierung
+
+|Kategorie|Anteil/Einordnung|
+|---|---|
+|Öffentliche Mittel|überwiegend >70 % der Hochschuleinnahmen.gpseducation.oecd+1|
+|Private Mittel gesamt|ca. 10–20 % (Haushalte, Unternehmen).gpseducation.oecd+1|
+|Drittmittel im Hochschulbudget|ca. 28–30 % der Hochschulmittel (inkl. Forschung).[foerderatlas.dfg]​|
+
+## Frankreich
+
+- In Frankreich stammen etwa 69 % der tertiären Bildungsausgaben (vor Transfers) aus öffentlichen Quellen; der Rest entfällt auf private Haushalte und andere private Quellen.[oecd]​
+    
+- Frankreich gehört damit zu den stärker öffentlich finanzierten Systemen, liegt aber leicht unter dem OECD‑Durchschnitt des öffentlichen Anteils.oecd+1
+    
+
+## Frankreich – grobe Struktur tertiärer Finanzierung
+
+|Kategorie|Anteil/Einordnung|
+|---|---|
+|Öffentliche Mittel|ca. 69 % der tertiären Ausgaben.[oecd]​|
+|Private Quellen gesamt|rund 30 % (Haushalte, Unternehmen, Non‑Profit).oecd+1|
+
+## Vereinigtes Königreich (insbesondere England)
+
+- Das UK, vor allem England, ist ein Beispiel für hohe Studiengebühren mit umfassenden Darlehenssystemen: Der private Anteil an der Hochschulfinanzierung (vor allem Gebühren) liegt deutlich über dem OECD‑Durchschnitt und zählt in Europa zu den höchsten.oecd+1
+    
+- Öffentliche Mittel fließen v. a. über Forschungsförderung und gezielte Lehr‑/Studierenden­förderung; die Grundfinanzierung der Lehre wird weitgehend über (kreditfinanzierte) Gebühren getragen.oecd+1
+    
+
+## Vereinigtes Königreich – grobe Struktur tertiärer Finanzierung
+
+|Kategorie|Einordnung|
+|---|---|
+|Öffentliche Mittel|deutlich unter kontinentaleuropäischen Systemen, aber weiterhin relevant für Forschung und Hilfen.oecd+1|
+|Private Mittel (v. a. Gebühren)|einer der höchsten Anteile in Europa, Kernfinanzierung der Lehre.oecd+1|
+
+(Exakte Prozentwerte schwanken nach Datensatz und Jahr; die OECD weist England als „high tuition–high aid“-Modell mit überwiegend privater Kostenbeteiligung der Studierenden aus.)[oecd]​
+
+## USA
+
+- In den USA stammen nur etwa 39 % der tertiären Bildungsausgaben aus öffentlichen Quellen, der Rest aus privaten Quellen (Haushalte, Spenden, Unternehmen, Gebühren); der öffentliche Anteil liegt damit deutlich unter dem OECD‑Durchschnitt.oecd+1
+    
+- Studiengebühren spielen eine zentrale Rolle: Bei öffentlichen Hochschulen machen Gebühren im Mittel rund 20–30 % der Einnahmen aus, bei privaten Non‑Profit‑Hochschulen deutlich mehr, bei privaten For‑Profit‑Anbietern stammen über 90 % der Einnahmen aus Gebühren.educationdata+1
+    
+
+## USA – grobe Struktur tertiärer Finanzierung
+
+|Kategorie|Einordnung/Größenordnung|
+|---|---|
+|Öffentliche Mittel gesamt|ca. 39 % der tertiären Finanzierung.oecd+1|
+|Private Mittel gesamt|ca. 60 %+ (Gebühren, Spenden, Aufträge).oecd+1|
+|Gebühren öffentliche Hochschulen|etwa 20–30 % der Einnahmen.[educationdata]​|
+|Gebühren private For‑Profit|>90 % der Einnahmen.[journalistsresource]​|
+
+## Europa insgesamt – Muster
+
+- Eurostat und Eurydice zeigen, dass in der EU die Finanzierung der Bildung insgesamt weit überwiegend öffentlich ist; private Quellen (inkl. Haushalte) spielen im tertiären Bereich zwar eine größere Rolle, bleiben in vielen Ländern aber unter 30 % der Gesamtausgaben.europa+1
+    
+- Modelle reichen von „low fee–high public“ (Nordics, Deutschland, Frankreich) über Mischmodelle bis zu „high fee–high aid“ (England) und stark privat dominierten Systemen (USA).eua+2
+    
+# References
 
 42KL. 2025. “42 Kuala Lumpur.” https://42kl.edu.my/.
 
