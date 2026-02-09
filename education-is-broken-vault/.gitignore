@@ -17,3 +17,6 @@ exports/
 build/
 dist/
 .tmp/
+
+# Generated Word files
+book/word/
