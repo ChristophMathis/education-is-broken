@@ -1,36 +1,27 @@
 ---
 longform:
   format: scenes
-  title: education-is-broken
+  title: Education is Broken
   workflow: Default Workflow
   sceneFolder: chapters
   scenes:
-    - _normative-manifesto
-    - 01.what-exactly-is-broken-v4
-    - 02.the-rise-of-the-intelligence-factory-v4
-    - 03.how-systems-actually-change-v4
-    - _hard-choices
-    - 04.new-models-of-learning-v4
-    - 05.degrees-skills-and-the-signalling-stack-v4
-    - 06.the-stratification-trap-v4
-    - 07.learning-in-companies-v4
-    - 08.ai-in-hiring-v3
-    - 09.universities-as-public-institutions-v4
-    - 10.three-futures-for-education-v4
-    - 21.additional-reading-v3
-    - 22.methodological-note-v3
-    - 23.failure-modes-hybrid
-    - 32.funding-model-geographic-analysis
-    - 31.funding-model-geographic-analysis 1
-    - 24.references-v3
-  ignoredFiles:
-    - 01.what-exactly-is-broken-v3
-    - 02.the-rise-of-the-intelligence-factory-v2
-    - 03.how-systems-actually-change-v3
-    - 04.new-models-of-learning-v3
-    - 05.degrees-skills-and-the-signalling-stack-v3
-    - 06.the-stratification-trap-v3
-    - 07.learning-in-companies-v3
-    - 09.universities-as-public-institutions-v3
-    - 10.three-futures-for-education-v3
+    - 01.normative-manifesto
+    - 02.what-exactly-is-broken
+    - 03.agency
+    - 04.the-rise-of-the-intelligence-factory
+    - 05.how-systems-actually-change
+    - 06.new-models-of-learning
+    - 07.degrees-skills-and-the-signalling-stack
+    - 08.the-stratification-trap
+    - 09.learning-in-companies
+    - 10.ai-in-hiring
+    - 11.universities-as-public-institutions
+    - 12.three-futures-for-education
+    - 42.methodological-note
+    - 43.failure-modes-hybrid
+    - 50.references
+    - 52.additional-reading
+    - 61.funding-model-geographic-analysis 1
+    - 62.funding-model-geographic-analysis
+  ignoredFiles: []
 ---
