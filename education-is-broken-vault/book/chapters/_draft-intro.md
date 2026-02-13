@@ -1,0 +1,29 @@
+i want an introduction at the beginning of the book. it should prepend the manifesto in chapter 01. draft an introduction - my current ideas are around the followin draft:
+
+- eigentlich heisst mein Thema "Human Work in Times opf AI"
+    - aber wenn man über arbeit spricht, kommt man unweigerlich auf ausbildung
+    - und in diesen Zeiten begegnet man auch überproportional den Kettensägen-ideologen, die alles, (auch Bildung und A>usbildung) radikal dekonstruieren
+    - also fragte ich mich:
+        - was ist denn der Stand
+        - wie sehen die Trends aus
+        - und was kann man als allgemeinere Trends und Möglichkeiten denken
+        - und was sind die Chancen und Hindernisse für diese denkbaren Systeme
+        - ich komme auf ein Rechercheproblem: es gibt eine Menge Untersuchungen zum Bestehenden. Zu den Trends gibt es weniger gesichertes, die Studien widersprechen sichzum Teil fundamental in ihren Ergebnissen.
+            - ich vermute, das hat damit zu tun, dass das Thema AI und Bildung neu ist. Niemand kann abschätzen, wie schnell die Entwicklungen verlaufen und ob die Ergebnisse der Untersuchungen nur Zwischenstände sind.
+            - das hat mich dazu geleitet, auch weniger gesicherte oder potentiell interessengeleitet Aussagen aufzunehmen, un dafür eine Einschätzung einiger Referenzen transparent zu machen. Wie das Sprichwort geht: die unsichersten Voraussagen sind die über die Zukunft.
+- eine zweite, noch flogenreichere Beobachtung war das, was in der Softwareentwickling "feature drift" genannt wird: über die Zeit kommen kleine, unscheinbare Änderungen honzu, un ehe man es sich versieht, hat sich die Richtung fundamental gewandelt.
+- hier war das so: die ursprüngliche Hypothese war:
+    - AI ersetzt die einfache white collar jobs
+    - das war aber der Kern der Karriere zu Seniors - den erfahrenen Mitarbeitern
+    - damit fehlen perspektivisch die erfahrenen Seniors, die die AIs pragmatisch erden und überwachen können, die kometente Sparringspartner sind
+    - also: bildung als Ausbildung gedach, als fit machen für den Jobmarkt und den Job
+- das Thema wollte es aber anders, es hat sich verändert (mein Doktorvater, der Architekt Fritz Haller, sagte dazu immer mit eine Zen-angelehngten Spruch: ich zeichne nicht, es zeichnet mit mir)
+- die entscheidende Frage war: was ist denn gute Ausbildung
+    - und plötzlich geht es tatsächlich um Bildung und nicht nur um Ausbildung
+    - [Themen aufzählen]
+    - und der ganze Rattenschwanz gesellschaftliche Relevanz
+- scope: erwachsenen bildung
+    - einer Versuchung habe ich widerstanden: viele Probleme in der Erwachsenenbildung, wie ungerechte Selektion, lassen sich nur anreissen, wenn man die Schulbildung nicht in die Betrachtung einbezieht - das müssen aber andere lösen.
+- woher komme ich
+    - meine Universitätslaufbahn war nur Assistent - ich habe da in Forschung gearbeitet und eine IT-Ausbvildung für Architekturstudenten aufgebaut
+    - ironischerweise habe ich über ein AI - Thema im Engineering promoviert - das war aber noch vor dem erste AI-Winter, und über symbolische AI wo sich der feature creep hine entwickelt hat: This book starts from a simple claim: **education exists to develop human agency and the cohesion of society under conditions of uncertainty**. Everything else—credentials, skills, employability, innovation, even growth—are secondary outcomes, not first principles. Und am deutlichsten kann man es in das Manifesto for Education in the Age of AI schärfen, das ich an den Aufang stgele
