@@ -25,15 +25,27 @@ find_image() {
   echo "$result"
 }
 
-# Convert Obsidian ![[image.ext]] embeds to standard Markdown ![image](path).
-# Supports common image extensions.
+# Convert Obsidian ![[image.ext]] and ![[image.ext|Caption]] embeds to standard
+# Markdown ![alt](path) syntax. Supports common image extensions.
 resolve_obsidian_images() {
   local input="$1"
   local tmp
   tmp="$(mktemp)"
 
   while IFS= read -r line; do
-    if [[ "$line" =~ !\[\[([^]]+\.(png|jpg|jpeg|gif|svg|webp))\]\] ]]; then
+    # Match ![[filename.ext|Caption]] (with pipe-separated caption)
+    if [[ "$line" =~ !\[\[([^]|]+\.(png|jpg|jpeg|gif|svg|webp))\|([^]]+)\]\] ]]; then
+      local img_name="${BASH_REMATCH[1]}"
+      local caption="${BASH_REMATCH[3]}"
+      local img_path
+      img_path="$(find_image "$img_name")"
+      if [ -n "$img_path" ]; then
+        line="${line//\!\[\[$img_name\|$caption\]\]/![$caption]($img_path)}"
+      else
+        echo "  WARNING: image not found: $img_name" >&2
+      fi
+    # Match ![[filename.ext]] (without caption)
+    elif [[ "$line" =~ !\[\[([^]]+\.(png|jpg|jpeg|gif|svg|webp))\]\] ]]; then
       local img_name="${BASH_REMATCH[1]}"
       local img_path
       img_path="$(find_image "$img_name")"
@@ -52,7 +64,17 @@ resolve_obsidian_images() {
 converted=0
 failed=0
 
+OUT_FILE=$OUT_DIR/chapters.md
+
+echo "\n" >$OUT_FILE
 for md_file in "$SRC_DIR"/*.md; do
+    echo "processing $md_file"
+    cat $md_file >>$OUT_FILE
+    echo "" >>$OUT_FILE
+done
+
+	       
+for md_file in "$OUT_FILE"; do
   [ -f "$md_file" ] || continue
 
   basename="$(basename "$md_file" .md)"
