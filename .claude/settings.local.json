@@ -8,7 +8,8 @@
       "Bash(file:*)",
       "Bash(du:*)",
       "Bash(wc:*)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(chmod:*)"
     ]
   },
   "outputStyle": "default"

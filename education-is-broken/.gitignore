@@ -1,0 +1,22 @@
+# Obsidian intern
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# Plugin caches
+.obsidian/plugins/**/cache/
+.obsidian/plugins/**/data.json
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Builds / exports
+exports/
+build/
+dist/
+.tmp/
+
+# Generated Word files
+book/word/
