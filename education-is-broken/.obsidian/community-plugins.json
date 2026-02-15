@@ -1,5 +1,6 @@
 [
   "obsidian-pandoc",
   "longform",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian-custom-file-extensions-plugin"
 ]
